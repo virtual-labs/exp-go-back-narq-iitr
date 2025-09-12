@@ -1,39 +1,52 @@
-{
-  "version": 2.0,
-  "questions": [
-    {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+[
+  {
+    "question": "In Go-Back-N ARQ, if frames 4, 5, and 6 are received successfully, the receiver may send an ACK ___ to the sender.",
+    "answers": {
+      "a": "6",
+      "b": "5",
+      "c": "7",
+      "d": "any of the above"
     },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
-  ]
-}
+    "correctAnswer": "c"
+  },
+  {
+    "question": "In a Go-Back-N ARQ, if the window size is 63, what is the range of sequence numbers?",
+    "answers": {
+      "a": "1 to 63",
+      "b": "0 to 63",
+      "c": "1 to 64",
+      "d": "0 to 64"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "question": "Both Go-Back-N and Selective Repeat use a?",
+    "answers": {
+      "a": "Sliding frame",
+      "b": "Sliding packet",
+      "c": "Sliding window",
+      "d": "Sliding Session"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "question": "In GBN sender Window size = 10 and Tp = 49.5ms & Tt = 1ms. What is the Efficiency of the protocol?",
+    "answers": {
+      "a": "0.1%",
+      "b": "1%",
+      "c": "10%",
+      "d": "None of the above"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "question": "A sender has a sliding window of size 15. The first 10 frames are sent. How many frames are in the window now?",
+    "answers": {
+      "a": "5",
+      "b": "10",
+      "c": "15",
+      "d": "0"
+    },
+    "correctAnswer": "a"
+  }
+]
