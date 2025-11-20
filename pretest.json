@@ -1,0 +1,52 @@
+[
+  {
+    "question": "The sender's window in the sliding window protocol can expand when:",
+    "answers": {
+      "a": "An ACK is received",
+      "b": "An ACK is sent",
+      "c": "A frame is sent",
+      "d": "A frame is received"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "question": "In which protocol can the sender receive an acknowledgement for a frame that falls outside its current window?",
+    "answers": {
+      "a": "Stop and Wait",
+      "b": "Go Back N",
+      "c": "Selective Repeat",
+      "d": "All of the above"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "question": "The receiver window will ________ in size when the frames are received in the sliding window method of flow control.",
+    "answers": {
+      "a": "Increase",
+      "b": "Decrease",
+      "c": "Doubles",
+      "d": "Remains Original"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "question": "For a sliding window protocol with a window size of n-1, what is the maximum number of frames that can be sent but unacknowledged?",
+    "answers": {
+      "a": "n",
+      "b": "n-1",
+      "c": "0",
+      "d": "n+1"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "question": "In the Go-Back-N ARQ protocol, the size of the receiver window is:",
+    "answers": {
+      "a": "Equal to sender window",
+      "b": "Always one",
+      "c": "Varies with time",
+      "d": "Cannot be determined"
+    },
+    "correctAnswer": "b"
+  }
+]

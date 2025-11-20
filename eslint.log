@@ -1,0 +1,2305 @@
+
+/home/runner/work/exp-go-back-narq-iitr/exp-go-back-narq-iitr/experiment/simulation/js/p5.js
+       4:5   warning  'module' is not defined                                                                                                no-undef
+       5:46  warning  'define' is not defined                                                                                                no-undef
+       6:5   warning  'define' is not defined                                                                                                no-undef
+      12:11  warning  'global' is not defined                                                                                                no-undef
+      21:15  warning  'module' is defined but never used                                                                                     no-unused-vars
+      21:23  warning  'exports' is defined but never used                                                                                    no-unused-vars
+      27:53  warning  'require' is not defined                                                                                               no-undef
+      50:52  warning  'require' is not defined                                                                                               no-undef
+      58:35  warning  'exports' is defined but never used                                                                                    no-unused-vars
+   31187:20  warning  '_dereq_' is defined but never used                                                                                    no-unused-vars
+   31187:29  warning  'module' is defined but never used                                                                                     no-unused-vars
+   31187:37  warning  'exports' is defined but never used                                                                                    no-unused-vars
+   31717:20  warning  Unexpected constant condition                                                                                          no-constant-condition
+   32751:58  warning  'max' is defined but never used                                                                                        no-unused-vars
+   32751:63  warning  'min' is defined but never used                                                                                        no-unused-vars
+   33077:35  warning  'exports' is defined but never used                                                                                    no-unused-vars
+   34271:24  warning  'self' is already defined as a built-in global variable                                                                no-redeclare
+   34317:17  warning  'global' is not defined                                                                                                no-undef
+   34459:35  warning  'exports' is defined but never used                                                                                    no-unused-vars
+   34470:20  warning  'self' is already defined as a built-in global variable                                                                no-redeclare
+   34680:85  warning  Empty block statement                                                                                                  no-empty
+   34685:85  warning  Empty block statement                                                                                                  no-empty
+   34741:91  warning  Empty block statement                                                                                                  no-empty
+   34745:90  warning  Empty block statement                                                                                                  no-empty
+   34753:35  warning  'exports' is defined but never used                                                                                    no-unused-vars
+   35108:21  warning  'c' is already defined                                                                                                 no-redeclare
+   35111:23  warning  'c' is already defined                                                                                                 no-redeclare
+   35286:21  warning  'c' is already defined                                                                                                 no-redeclare
+   35294:21  warning  'f' is already defined                                                                                                 no-redeclare
+   35296:19  warning  'e' is already defined                                                                                                 no-redeclare
+   35297:19  warning  'g' is already defined                                                                                                 no-redeclare
+   35305:21  warning  'h' is already defined                                                                                                 no-redeclare
+   35324:19  warning  'f' is already defined                                                                                                 no-redeclare
+   35325:17  warning  'e' is already defined                                                                                                 no-redeclare
+   35326:17  warning  'g' is already defined                                                                                                 no-redeclare
+   35327:17  warning  'h' is already defined                                                                                                 no-redeclare
+   35328:17  warning  'k' is already defined                                                                                                 no-redeclare
+   35515:21  warning  'b' is already defined                                                                                                 no-redeclare
+   35517:19  warning  'c' is already defined                                                                                                 no-redeclare
+   35519:19  warning  'd' is already defined                                                                                                 no-redeclare
+   35520:19  warning  'a' is already defined                                                                                                 no-redeclare
+   35967:17  warning  'gopts' is already defined                                                                                             no-redeclare
+   36372:17  warning  'background' is assigned a value but never used                                                                        no-unused-vars
+   36427:32  warning  Unexpected constant condition                                                                                          no-constant-condition
+   36450:30  warning  Unexpected constant condition                                                                                          no-constant-condition
+   36452:29  warning  'block_size' is already defined                                                                                        no-redeclare
+   36482:25  warning  'has_local_palette' is already defined                                                                                 no-redeclare
+   36491:26  warning  Unexpected constant condition                                                                                          no-constant-condition
+   36492:25  warning  'block_size' is already defined                                                                                        no-redeclare
+   36522:19  warning  Unreachable code                                                                                                       no-unreachable
+   36709:20  warning  Unexpected constant condition                                                                                          no-constant-condition
+   36833:23  warning  Empty block statement                                                                                                  no-empty
+   36863:37  warning  Empty block statement                                                                                                  no-empty
+   37203:24  warning  Unexpected constant condition                                                                                          no-constant-condition
+   42191:24  warning  Unexpected constant condition                                                                                          no-constant-condition
+   42267:25  warning  Do not access Object.prototype method 'hasOwnProperty' from target object                                              no-prototype-builtins
+   44382:19  warning  'langTagCount' is assigned a value but never used                                                                      no-unused-vars
+   45171:17  warning  Unreachable code                                                                                                       no-unreachable
+   46813:25  warning  'prev2' is assigned a value but never used                                                                             no-unused-vars
+   48433:45  warning  Empty block statement                                                                                                  no-empty
+   50365:19  warning  Expected method 'get' to always return a value                                                                         getter-return
+   50752:33  warning  'predicate' is defined but never used                                                                                  no-unused-vars
+   50752:44  warning  'message' is defined but never used                                                                                    no-unused-vars
+   51854:43  warning  'index' is defined but never used                                                                                      no-unused-vars
+   51897:24  warning  'i' is already defined                                                                                                 no-redeclare
+   52050:35  warning  'exports' is defined but never used                                                                                    no-unused-vars
+   52225:40  warning  'name' is defined but never used                                                                                       no-unused-vars
+   52229:38  warning  'name' is defined but never used                                                                                       no-unused-vars
+   52236:36  warning  'dir' is defined but never used                                                                                        no-unused-vars
+   52246:18  warning  '_dereq_' is defined but never used                                                                                    no-unused-vars
+   52246:27  warning  'module' is defined but never used                                                                                     no-unused-vars
+   52246:35  warning  'exports' is defined but never used                                                                                    no-unused-vars
+   52286:50  warning  Do not access Object.prototype method 'isPrototypeOf' from target object                                               no-prototype-builtins
+   52302:38  warning  Unnecessary escape character: \^                                                                                       no-useless-escape
+   52368:31  warning  Do not access Object.prototype method 'hasOwnProperty' from target object                                              no-prototype-builtins
+   52377:30  warning  Do not access Object.prototype method 'hasOwnProperty' from target object                                              no-prototype-builtins
+   52472:59  warning  Do not access Object.prototype method 'isPrototypeOf' from target object                                               no-prototype-builtins
+   52474:67  warning  Do not access Object.prototype method 'isPrototypeOf' from target object                                               no-prototype-builtins
+   52478:45  warning  Do not access Object.prototype method 'isPrototypeOf' from target object                                               no-prototype-builtins
+   52487:42  warning  Do not access Object.prototype method 'isPrototypeOf' from target object                                               no-prototype-builtins
+   52501:47  warning  Do not access Object.prototype method 'isPrototypeOf' from target object                                               no-prototype-builtins
+   52750:35  warning  'exports' is defined but never used                                                                                    no-unused-vars
+   57351:13  warning  '_wrapNativeSuper' is a function                                                                                       no-func-assign
+   57386:31  warning  'Parent' is defined but never used                                                                                     no-unused-vars
+   57386:39  warning  'args' is defined but never used                                                                                       no-unused-vars
+   57386:45  warning  'Class' is defined but never used                                                                                      no-unused-vars
+   57388:15  warning  '_construct' is a function                                                                                             no-func-assign
+   57390:15  warning  '_construct' is a function                                                                                             no-func-assign
+   57405:13  warning  '_setPrototypeOf' is a function                                                                                        no-func-assign
+   57414:13  warning  '_getPrototypeOf' is a function                                                                                        no-func-assign
+   57423:15  warning  '_typeof' is a function                                                                                                no-func-assign
+   57427:15  warning  '_typeof' is a function                                                                                                no-func-assign
+   57676:21  warning  Unsafe usage of ThrowStatement                                                                                         no-unsafe-finally
+   57681:31  warning  Do not access Object.prototype method 'hasOwnProperty' from target object                                              no-prototype-builtins
+   57728:40  warning  Do not access Object.prototype method 'hasOwnProperty' from target object                                              no-prototype-builtins
+   57751:43  warning  Do not access Object.prototype method 'hasOwnProperty' from target object                                              no-prototype-builtins
+   57842:43  warning  Do not access Object.prototype method 'hasOwnProperty' from target object                                              no-prototype-builtins
+   58039:31  warning  Empty block statement                                                                                                  no-empty
+   58312:27  warning  'module' is defined but never used                                                                                     no-unused-vars
+   58312:35  warning  'exports' is defined but never used                                                                                    no-unused-vars
+   58478:39  warning  'sync' is defined but never used                                                                                       no-unused-vars
+   58685:21  warning  Unsafe usage of ThrowStatement                                                                                         no-unsafe-finally
+   58841:23  warning  Unsafe usage of ThrowStatement                                                                                         no-unsafe-finally
+   58977:25  warning  Unsafe usage of ThrowStatement                                                                                         no-unsafe-finally
+   58998:31  warning  Do not access Object.prototype method 'hasOwnProperty' from target object                                              no-prototype-builtins
+   59030:39  warning  Do not access Object.prototype method 'hasOwnProperty' from target object                                              no-prototype-builtins
+   59031:32  warning  Do not access Object.prototype method 'hasOwnProperty' from target object                                              no-prototype-builtins
+   59045:28  warning  Do not access Object.prototype method 'hasOwnProperty' from target object                                              no-prototype-builtins
+   59108:53  warning  Do not access Object.prototype method 'hasOwnProperty' from target object                                              no-prototype-builtins
+   59117:50  warning  Do not access Object.prototype method 'hasOwnProperty' from target object                                              no-prototype-builtins
+   60383:15  warning  '_typeof' is a function                                                                                                no-func-assign
+   60387:15  warning  '_typeof' is a function                                                                                                no-func-assign
+   61998:13  warning  'maxHeight' is defined but never used                                                                                  no-unused-vars
+   62127:27  warning  'module' is defined but never used                                                                                     no-unused-vars
+   62127:35  warning  'exports' is defined but never used                                                                                    no-unused-vars
+   62214:19  warning  Unsafe usage of ThrowStatement                                                                                         no-unsafe-finally
+   62352:15  warning  '_typeof' is a function                                                                                                no-func-assign
+   62356:15  warning  '_typeof' is a function                                                                                                no-func-assign
+   65401:67  warning  'u' is defined but never used                                                                                          no-unused-vars
+   65401:70  warning  'v' is defined but never used                                                                                          no-unused-vars
+   65436:18  warning  '_dereq_' is defined but never used                                                                                    no-unused-vars
+   65436:27  warning  'module' is defined but never used                                                                                     no-unused-vars
+   65436:35  warning  'exports' is defined but never used                                                                                    no-unused-vars
+   65440:15  warning  '_typeof' is a function                                                                                                no-func-assign
+   65444:15  warning  '_typeof' is a function                                                                                                no-func-assign
+   65467:34  warning  'element' is defined but never used                                                                                    no-unused-vars
+   65520:56  warning  'source1' is defined but never used                                                                                    no-unused-vars
+   66113:62  warning  'a' is defined but never used                                                                                          no-unused-vars
+   66113:65  warning  'b' is defined but never used                                                                                          no-unused-vars
+   66113:68  warning  'c' is defined but never used                                                                                          no-unused-vars
+   66113:71  warning  'd' is defined but never used                                                                                          no-unused-vars
+   66113:74  warning  'e' is defined but never used                                                                                          no-unused-vars
+   66113:77  warning  'f' is defined but never used                                                                                          no-unused-vars
+   66507:27  warning  'module' is defined but never used                                                                                     no-unused-vars
+   66507:35  warning  'exports' is defined but never used                                                                                    no-unused-vars
+   66537:15  warning  '_typeof' is a function                                                                                                no-func-assign
+   66541:15  warning  '_typeof' is a function                                                                                                no-func-assign
+   66920:30  warning  Do not access Object.prototype method 'hasOwnProperty' from target object                                              no-prototype-builtins
+   66943:27  warning  Do not access Object.prototype method 'hasOwnProperty' from target object                                              no-prototype-builtins
+   67069:27  warning  Do not access Object.prototype method 'hasOwnProperty' from target object                                              no-prototype-builtins
+   67174:66  warning  'value' is defined but never used                                                                                      no-unused-vars
+   67260:27  warning  Do not access Object.prototype method 'hasOwnProperty' from target object                                              no-prototype-builtins
+   67312:27  warning  Do not access Object.prototype method 'hasOwnProperty' from target object                                              no-prototype-builtins
+   67340:27  warning  Do not access Object.prototype method 'hasOwnProperty' from target object                                              no-prototype-builtins
+   67495:15  warning  '_typeof' is a function                                                                                                no-func-assign
+   67499:15  warning  '_typeof' is a function                                                                                                no-func-assign
+   67707:61  warning  'e' is defined but never used                                                                                          no-unused-vars
+   71904:54  warning  'e' is defined but never used                                                                                          no-unused-vars
+   71996:34  warning  Do not access Object.prototype method 'hasOwnProperty' from target object                                              no-prototype-builtins
+   73259:15  warning  This branch can never execute. Its condition is a duplicate or covered by previous conditions in the if-else-if chain  no-dupe-else-if
+   73425:46  warning  'ImageData' is already defined as a built-in global variable                                                           no-redeclare
+   74060:21  warning  'frames' is already defined as a built-in global variable                                                              no-redeclare
+   74534:34  warning  'pImg' is defined but never used                                                                                       no-unused-vars
+   75529:56  warning  'x' is defined but never used                                                                                          no-unused-vars
+   75529:59  warning  'y' is defined but never used                                                                                          no-unused-vars
+   75529:62  warning  'w' is defined but never used                                                                                          no-unused-vars
+   75529:65  warning  'h' is defined but never used                                                                                          no-unused-vars
+   76890:50  warning  'x' is defined but never used                                                                                          no-unused-vars
+   76890:53  warning  'y' is defined but never used                                                                                          no-unused-vars
+   76890:56  warning  'w' is defined but never used                                                                                          no-unused-vars
+   76890:59  warning  'h' is defined but never used                                                                                          no-unused-vars
+   77086:15  warning  '_typeof' is a function                                                                                                no-func-assign
+   77090:15  warning  '_typeof' is a function                                                                                                no-func-assign
+   77235:22  warning  Do not access Object.prototype method 'hasOwnProperty' from target object                                              no-prototype-builtins
+   77236:23  warning  Do not access Object.prototype method 'hasOwnProperty' from target object                                              no-prototype-builtins
+   78203:23  warning  Do not access Object.prototype method 'hasOwnProperty' from target object                                              no-prototype-builtins
+   78204:23  warning  Do not access Object.prototype method 'hasOwnProperty' from target object                                              no-prototype-builtins
+   78585:51  warning  'object' is defined but never used                                                                                     no-unused-vars
+   78585:59  warning  '_filename' is defined but never used                                                                                  no-unused-vars
+   78585:70  warning  '_options' is defined but never used                                                                                   no-unused-vars
+   79071:42  warning  'rows' is defined but never used                                                                                       no-unused-vars
+   81153:21  warning  Unsafe usage of ThrowStatement                                                                                         no-unsafe-finally
+   81379:19  warning  Unsafe usage of ThrowStatement                                                                                         no-unsafe-finally
+   81446:19  warning  Unsafe usage of ThrowStatement                                                                                         no-unsafe-finally
+   81515:19  warning  Unsafe usage of ThrowStatement                                                                                         no-unsafe-finally
+   81584:19  warning  Unsafe usage of ThrowStatement                                                                                         no-unsafe-finally
+   82575:26  warning  'x' is defined but never used                                                                                          no-unused-vars
+   82575:29  warning  'y' is defined but never used                                                                                          no-unused-vars
+   82575:32  warning  'z' is defined but never used                                                                                          no-unused-vars
+   85509:60  warning  'horizAlign' is defined but never used                                                                                 no-unused-vars
+   85509:72  warning  'vertAlign' is defined but never used                                                                                  no-unused-vars
+   85551:58  warning  'theLeading' is defined but never used                                                                                 no-unused-vars
+   85587:55  warning  'theSize' is defined but never used                                                                                    no-unused-vars
+   85628:56  warning  'theStyle' is defined but never used                                                                                   no-unused-vars
+   86016:51  warning  'str' is defined but never used                                                                                        no-unused-vars
+   86016:56  warning  'x' is defined but never used                                                                                          no-unused-vars
+   86016:59  warning  'y' is defined but never used                                                                                          no-unused-vars
+   86016:62  warning  'maxWidth' is defined but never used                                                                                   no-unused-vars
+   86016:72  warning  'maxHeight' is defined but never used                                                                                  no-unused-vars
+   86146:15  warning  '_typeof' is a function                                                                                                no-func-assign
+   86150:15  warning  '_typeof' is a function                                                                                                no-func-assign
+   86263:17  warning  'gFontSize' is defined but never used                                                                                  no-unused-vars
+   86584:19  warning  Unsafe usage of ThrowStatement                                                                                         no-unsafe-finally
+   90031:61  warning  'args' is defined but never used                                                                                       no-unused-vars
+   91473:59  warning  'v1' is defined but never used                                                                                         no-unused-vars
+   91473:63  warning  'v2' is defined but never used                                                                                         no-unused-vars
+   91473:67  warning  'v3' is defined but never used                                                                                         no-unused-vars
+   91473:71  warning  'a' is defined but never used                                                                                          no-unused-vars
+   91560:60  warning  'v1' is defined but never used                                                                                         no-unused-vars
+   91560:64  warning  'v2' is defined but never used                                                                                         no-unused-vars
+   91560:68  warning  'v3' is defined but never used                                                                                         no-unused-vars
+   91633:75  warning  'x' is defined but never used                                                                                          no-unused-vars
+   91633:78  warning  'y' is defined but never used                                                                                          no-unused-vars
+   91633:81  warning  'z' is defined but never used                                                                                          no-unused-vars
+   91743:69  warning  'x' is defined but never used                                                                                          no-unused-vars
+   91743:72  warning  'y' is defined but never used                                                                                          no-unused-vars
+   91743:75  warning  'z' is defined but never used                                                                                          no-unused-vars
+   93632:62  warning  'v1' is defined but never used                                                                                         no-unused-vars
+   93632:66  warning  'v2' is defined but never used                                                                                         no-unused-vars
+   93632:70  warning  'v3' is defined but never used                                                                                         no-unused-vars
+   93632:74  warning  'a' is defined but never used                                                                                          no-unused-vars
+   93684:63  warning  'v1' is defined but never used                                                                                         no-unused-vars
+   93684:67  warning  'v2' is defined but never used                                                                                         no-unused-vars
+   93684:71  warning  'v3' is defined but never used                                                                                         no-unused-vars
+   93684:75  warning  'a' is defined but never used                                                                                          no-unused-vars
+   93736:63  warning  'v1' is defined but never used                                                                                         no-unused-vars
+   93736:67  warning  'v2' is defined but never used                                                                                         no-unused-vars
+   93736:71  warning  'v3' is defined but never used                                                                                         no-unused-vars
+   93736:75  warning  'a' is defined but never used                                                                                          no-unused-vars
+   96684:13  warning  'mode' is defined but never used                                                                                       no-unused-vars
+   96685:13  warning  'isCurve' is defined but never used                                                                                    no-unused-vars
+   96686:13  warning  'isBezier' is defined but never used                                                                                   no-unused-vars
+   96687:13  warning  'isQuadratic' is defined but never used                                                                                no-unused-vars
+   96688:13  warning  'isContour' is defined but never used                                                                                  no-unused-vars
+   96689:13  warning  'shapeKind' is defined but never used                                                                                  no-unused-vars
+   96926:21  warning  Unsafe usage of ThrowStatement                                                                                         no-unsafe-finally
+   97008:19  warning  Unsafe usage of ThrowStatement                                                                                         no-unsafe-finally
+   97174:15  warning  '_path' is assigned a value but never used                                                                             no-unused-vars
+   97280:73  warning  'attr' is defined but never used                                                                                       no-unused-vars
+   97422:13  warning  Unnecessary try/catch wrapper                                                                                          no-useless-catch
+   97681:42  warning  Do not access Object.prototype method 'hasOwnProperty' from target object                                              no-prototype-builtins
+   97807:62  warning  'v1' is defined but never used                                                                                         no-unused-vars
+   97807:66  warning  'v2' is defined but never used                                                                                         no-unused-vars
+   97807:70  warning  'v3' is defined but never used                                                                                         no-unused-vars
+   97807:74  warning  'a' is defined but never used                                                                                          no-unused-vars
+   97847:64  warning  'r' is defined but never used                                                                                          no-unused-vars
+   97847:67  warning  'g' is defined but never used                                                                                          no-unused-vars
+   97847:70  warning  'b' is defined but never used                                                                                          no-unused-vars
+   97847:73  warning  'a' is defined but never used                                                                                          no-unused-vars
+   97855:67  warning  'cap' is defined but never used                                                                                        no-unused-vars
+   97860:68  warning  'join' is defined but never used                                                                                       no-unused-vars
+   98416:19  warning  Unsafe usage of ThrowStatement                                                                                         no-unsafe-finally
+   98598:19  warning  Unsafe usage of ThrowStatement                                                                                         no-unsafe-finally
+   98640:46  warning  'data' is defined but never used                                                                                       no-unused-vars
+   98640:52  warning  'weight' is defined but never used                                                                                     no-unused-vars
+   98644:35  warning  'flag' is defined but never used                                                                                       no-unused-vars
+   98991:19  warning  Unsafe usage of ThrowStatement                                                                                         no-unsafe-finally
+   99023:19  warning  Unsafe usage of ThrowStatement                                                                                         no-unsafe-finally
+   99699:27  warning  'module' is defined but never used                                                                                     no-unused-vars
+   99699:35  warning  'exports' is defined but never used                                                                                    no-unused-vars
+  100209:23  warning  Unsafe usage of ThrowStatement                                                                                         no-unsafe-finally
+  100326:21  warning  Unsafe usage of ThrowStatement                                                                                         no-unsafe-finally
+  100539:21  warning  Unsafe usage of ThrowStatement                                                                                         no-unsafe-finally
+
+/home/runner/work/exp-go-back-narq-iitr/exp-go-back-narq-iitr/experiment/simulation/js/p5.sound.min.js
+  24:43     warning  'define' is not defined                                                    no-undef
+  24:54     warning  'define' is not defined                                                    no-undef
+  24:125    warning  'require' is not defined                                                   no-undef
+  24:285    warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  24:331    warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  24:3010   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  24:3063   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  24:5207   warning  't' is defined but never used                                              no-unused-vars
+  24:11153  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  24:11192  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  24:11238  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  24:11273  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  24:11578  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  24:11760  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  24:12023  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  24:13121  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  24:13160  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  24:16971  warning  'e' is already defined                                                     no-redeclare
+  24:16978  warning  'i' is already defined                                                     no-redeclare
+  24:19283  warning  'i' is assigned to itself                                                  no-self-assign
+  24:19458  warning  'a' is already defined                                                     no-redeclare
+  24:19537  warning  'a' is already defined                                                     no-redeclare
+  24:19572  warning  'u' is already defined                                                     no-redeclare
+  24:19590  warning  'c' is already defined                                                     no-redeclare
+  24:19682  warning  'a' is already defined                                                     no-redeclare
+  24:19706  warning  'u' is already defined                                                     no-redeclare
+  24:19730  warning  'c' is already defined                                                     no-redeclare
+  24:20221  warning  'o' is already defined                                                     no-redeclare
+  24:22632  warning  Unnecessary try/catch wrapper                                              no-useless-catch
+  24:30073  warning  Empty block statement                                                      no-empty
+  25:1818   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  25:5974   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  25:9017   warning  'n' is already defined                                                     no-redeclare
+  25:10994  warning  't' is already defined                                                     no-redeclare
+  25:11446  warning  't' is already defined                                                     no-redeclare
+  25:11453  warning  'i' is already defined                                                     no-redeclare
+  25:12171  warning  'd' is assigned a value but never used                                     no-unused-vars
+  25:13811  warning  'y' is assigned a value but never used                                     no-unused-vars
+  25:15773  warning  Unnecessary escape character: \-                                           no-useless-escape
+  25:16021  warning  Unnecessary escape character: \-                                           no-useless-escape
+  25:29787  warning  'x' is assigned a value but never used                                     no-unused-vars
+  26:2115   warning  'o' is already defined                                                     no-redeclare
+  26:3528   warning  'i' is already defined                                                     no-redeclare
+  26:3535   warning  'n' is already defined                                                     no-redeclare
+  26:4056   warning  'i' is already defined                                                     no-redeclare
+  26:4063   warning  'n' is already defined                                                     no-redeclare
+  26:4567   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  26:17408  warning  'i' is already defined                                                     no-redeclare
+  26:23794  warning  'e' is already defined                                                     no-redeclare
+  26:23801  warning  'n' is already defined                                                     no-redeclare
+  26:27736  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  26:27791  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  27:1040   warning  'L' is assigned a value but never used                                     no-unused-vars
+  27:2753   warning  Unnecessary escape character: \-                                           no-useless-escape
+  27:2932   warning  Unnecessary escape character: \-                                           no-useless-escape
+  27:2980   warning  Unnecessary escape character: \!                                           no-useless-escape
+  27:3276   warning  Unnecessary escape character: \%                                           no-useless-escape
+  27:7317   warning  'i' is already defined                                                     no-redeclare
+  27:7324   warning  'n' is already defined                                                     no-redeclare
+  27:15561  warning  't' is defined but never used                                              no-unused-vars
+  27:25446  warning  'i' is already defined                                                     no-redeclare
+  27:30893  warning  'i' is already defined                                                     no-redeclare
+  28:5706   warning  Invalid typeof comparison value                                            valid-typeof
+  28:12060  warning  'i' is already defined                                                     no-redeclare
+  28:12067  warning  'n' is already defined                                                     no-redeclare
+  28:12676  warning  't' is defined but never used                                              no-unused-vars
+  28:12678  warning  'e' is defined but never used                                              no-unused-vars
+  28:12680  warning  'i' is defined but never used                                              no-unused-vars
+  28:12682  warning  'n' is defined but never used                                              no-unused-vars
+  28:12733  warning  't' is defined but never used                                              no-unused-vars
+  28:12735  warning  'e' is defined but never used                                              no-unused-vars
+  28:12737  warning  'i' is defined but never used                                              no-unused-vars
+  28:12789  warning  't' is defined but never used                                              no-unused-vars
+  28:12830  warning  't' is defined but never used                                              no-unused-vars
+  28:12832  warning  'e' is defined but never used                                              no-unused-vars
+  28:13794  warning  'i' is already defined                                                     no-redeclare
+  28:13933  warning  't' is already defined                                                     no-redeclare
+  28:15679  warning  'n' is already defined                                                     no-redeclare
+  28:15820  warning  's' is already defined                                                     no-redeclare
+  28:16063  warning  's' is already defined                                                     no-redeclare
+  28:19380  warning  'ft' is assigned a value but never used                                    no-unused-vars
+
+/home/runner/work/exp-go-back-narq-iitr/exp-go-back-narq-iitr/experiment/simulation/js/sketch3.js
+    3:5    warning  'flag' is assigned a value but never used  no-unused-vars
+    7:10   warning  'setup' is defined but never used          no-unused-vars
+    8:16   warning  'createCanvas' is not defined              no-undef
+   15:5    warning  'a' is not defined                         no-undef
+   16:5    warning  'b' is not defined                         no-undef
+   17:5    warning  'A' is not defined                         no-undef
+   18:5    warning  'B' is not defined                         no-undef
+   20:5    warning  'x1' is not defined                        no-undef
+   21:5    warning  'y1' is not defined                        no-undef
+   22:5    warning  'a1' is not defined                        no-undef
+   23:5    warning  'b1' is not defined                        no-undef
+   24:5    warning  'x2' is not defined                        no-undef
+   25:5    warning  'y2' is not defined                        no-undef
+   26:5    warning  'a2' is not defined                        no-undef
+   27:5    warning  'b2' is not defined                        no-undef
+   28:5    warning  'x3' is not defined                        no-undef
+   29:5    warning  'y3' is not defined                        no-undef
+   30:5    warning  'a3' is not defined                        no-undef
+   31:5    warning  'b3' is not defined                        no-undef
+   32:5    warning  'x4' is not defined                        no-undef
+   33:5    warning  'y4' is not defined                        no-undef
+   34:5    warning  'a4' is not defined                        no-undef
+   35:5    warning  'b4' is not defined                        no-undef
+   37:5    warning  'x5' is not defined                        no-undef
+   38:5    warning  'y5' is not defined                        no-undef
+   39:5    warning  'a5' is not defined                        no-undef
+   40:5    warning  'b5' is not defined                        no-undef
+   42:5    warning  'x6' is not defined                        no-undef
+   43:5    warning  'y6' is not defined                        no-undef
+   44:5    warning  'a6' is not defined                        no-undef
+   45:5    warning  'b6' is not defined                        no-undef
+   46:5    warning  'm' is not defined                         no-undef
+   48:5    warning  'x7' is not defined                        no-undef
+   49:5    warning  'y7' is not defined                        no-undef
+   50:5    warning  'a7' is not defined                        no-undef
+   51:5    warning  'b7' is not defined                        no-undef
+   53:5    warning  'textSize' is not defined                  no-undef
+   57:5    warning  'arr' is not defined                       no-undef
+   58:5    warning  'strokeWeight' is not defined              no-undef
+   59:5    warning  'label' is not defined                     no-undef
+   59:13   warning  'createElement' is not defined             no-undef
+   60:5    warning  'label' is not defined                     no-undef
+   61:5    warning  'label' is not defined                     no-undef
+   62:5    warning  'button1' is not defined                   no-undef
+   62:15   warning  'createButton' is not defined              no-undef
+   63:5    warning  'button1' is not defined                   no-undef
+   64:5    warning  'button1' is not defined                   no-undef
+   65:5    warning  'button1' is not defined                   no-undef
+   66:5    warning  'button1' is not defined                   no-undef
+   67:5    warning  'button1' is not defined                   no-undef
+   68:5    warning  'button1' is not defined                   no-undef
+   69:5    warning  'button2' is not defined                   no-undef
+   69:15   warning  'createButton' is not defined              no-undef
+   70:5    warning  'button2' is not defined                   no-undef
+   71:5    warning  'button2' is not defined                   no-undef
+   72:5    warning  'button2' is not defined                   no-undef
+   73:5    warning  'button2' is not defined                   no-undef
+   74:5    warning  'button2' is not defined                   no-undef
+   75:5    warning  'button2' is not defined                   no-undef
+   76:5    warning  'button3' is not defined                   no-undef
+   76:15   warning  'createButton' is not defined              no-undef
+   77:5    warning  'button3' is not defined                   no-undef
+   78:5    warning  'button3' is not defined                   no-undef
+   79:5    warning  'button3' is not defined                   no-undef
+   80:5    warning  'button3' is not defined                   no-undef
+   81:5    warning  'button3' is not defined                   no-undef
+   82:5    warning  'button3' is not defined                   no-undef
+   83:5    warning  'button4' is not defined                   no-undef
+   83:15   warning  'createButton' is not defined              no-undef
+   84:5    warning  'button4' is not defined                   no-undef
+   85:5    warning  'button4' is not defined                   no-undef
+   86:5    warning  'button4' is not defined                   no-undef
+   87:5    warning  'button4' is not defined                   no-undef
+   88:5    warning  'button4' is not defined                   no-undef
+   89:5    warning  'button4' is not defined                   no-undef
+   90:5    warning  'button5' is not defined                   no-undef
+   90:15   warning  'createButton' is not defined              no-undef
+   91:5    warning  'button5' is not defined                   no-undef
+   92:5    warning  'button5' is not defined                   no-undef
+   93:5    warning  'button5' is not defined                   no-undef
+   94:5    warning  'button5' is not defined                   no-undef
+   95:5    warning  'button5' is not defined                   no-undef
+   96:5    warning  'button5' is not defined                   no-undef
+   97:5    warning  'button6' is not defined                   no-undef
+   97:15   warning  'createButton' is not defined              no-undef
+   98:5    warning  'button6' is not defined                   no-undef
+   99:5    warning  'button6' is not defined                   no-undef
+  100:5    warning  'button6' is not defined                   no-undef
+  101:5    warning  'button6' is not defined                   no-undef
+  102:5    warning  'button6' is not defined                   no-undef
+  103:5    warning  'button6' is not defined                   no-undef
+  104:5    warning  'button7' is not defined                   no-undef
+  104:15   warning  'createButton' is not defined              no-undef
+  105:5    warning  'button7' is not defined                   no-undef
+  106:5    warning  'button7' is not defined                   no-undef
+  107:5    warning  'button7' is not defined                   no-undef
+  108:5    warning  'button7' is not defined                   no-undef
+  109:5    warning  'button7' is not defined                   no-undef
+  110:5    warning  'button7' is not defined                   no-undef
+  111:5    warning  'button8' is not defined                   no-undef
+  111:15   warning  'createButton' is not defined              no-undef
+  112:5    warning  'button8' is not defined                   no-undef
+  113:5    warning  'button8' is not defined                   no-undef
+  114:5    warning  'button8' is not defined                   no-undef
+  115:5    warning  'button8' is not defined                   no-undef
+  116:5    warning  'button8' is not defined                   no-undef
+  117:5    warning  'button8' is not defined                   no-undef
+  118:5    warning  'button9' is not defined                   no-undef
+  118:15   warning  'createButton' is not defined              no-undef
+  119:5    warning  'button9' is not defined                   no-undef
+  120:5    warning  'button9' is not defined                   no-undef
+  121:5    warning  'button9' is not defined                   no-undef
+  122:5    warning  'button9' is not defined                   no-undef
+  123:5    warning  'button9' is not defined                   no-undef
+  124:5    warning  'button9' is not defined                   no-undef
+  125:5    warning  'button10' is not defined                  no-undef
+  125:16   warning  'createButton' is not defined              no-undef
+  126:5    warning  'button10' is not defined                  no-undef
+  127:5    warning  'button10' is not defined                  no-undef
+  128:5    warning  'button10' is not defined                  no-undef
+  129:5    warning  'button10' is not defined                  no-undef
+  130:5    warning  'button10' is not defined                  no-undef
+  131:5    warning  'button10' is not defined                  no-undef
+  133:11   warning  'createInput' is not defined               no-undef
+  137:3    warning  'button' is not defined                    no-undef
+  137:12   warning  'createButton' is not defined              no-undef
+  138:3    warning  'button' is not defined                    no-undef
+  139:3    warning  'button' is not defined                    no-undef
+  140:3    warning  'button' is not defined                    no-undef
+  141:3    warning  'button' is not defined                    no-undef
+  143:5    warning  'button11' is not defined                  no-undef
+  143:16   warning  'createButton' is not defined              no-undef
+  144:5    warning  'button11' is not defined                  no-undef
+  145:5    warning  'button11' is not defined                  no-undef
+  146:5    warning  'button11' is not defined                  no-undef
+  147:5    warning  'button11' is not defined                  no-undef
+  156:5    warning  'Swal' is not defined                      no-undef
+  173:5    warning  'button1' is not defined                   no-undef
+  174:5    warning  'button2' is not defined                   no-undef
+  175:5    warning  'button3' is not defined                   no-undef
+  176:5    warning  'button4' is not defined                   no-undef
+  177:5    warning  'button5' is not defined                   no-undef
+  178:5    warning  'button6' is not defined                   no-undef
+  179:5    warning  'button7' is not defined                   no-undef
+  180:5    warning  'button8' is not defined                   no-undef
+  181:5    warning  'button9' is not defined                   no-undef
+  182:5    warning  'button10' is not defined                  no-undef
+  185:9    warning  'button1' is not defined                   no-undef
+  186:9    warning  'button2' is not defined                   no-undef
+  187:9    warning  'button3' is not defined                   no-undef
+  188:9    warning  'button4' is not defined                   no-undef
+  189:9    warning  'button5' is not defined                   no-undef
+  190:9    warning  'button6' is not defined                   no-undef
+  191:9    warning  'button7' is not defined                   no-undef
+  192:9    warning  'button8' is not defined                   no-undef
+  193:9    warning  'button9' is not defined                   no-undef
+  194:9    warning  'button10' is not defined                  no-undef
+  200:5    warning  'button1' is not defined                   no-undef
+  201:5    warning  'button2' is not defined                   no-undef
+  202:5    warning  'button3' is not defined                   no-undef
+  203:5    warning  'button4' is not defined                   no-undef
+  204:5    warning  'button5' is not defined                   no-undef
+  205:5    warning  'button6' is not defined                   no-undef
+  206:5    warning  'button7' is not defined                   no-undef
+  207:5    warning  'button8' is not defined                   no-undef
+  208:5    warning  'button9' is not defined                   no-undef
+  209:5    warning  'button10' is not defined                  no-undef
+  214:1    warning  'count' is not defined                     no-undef
+  215:1    warning  'c3' is not defined                        no-undef
+  216:1    warning  'c4' is not defined                        no-undef
+  217:1    warning  'c5' is not defined                        no-undef
+  221:11   warning  'arr' is not defined                       no-undef
+  223:9    warning  'button1' is not defined                   no-undef
+  225:16   warning  'arr' is not defined                       no-undef
+  225:29   warning  Empty block statement                      no-empty
+  226:9    warning  'button1' is not defined                   no-undef
+  228:9    warning  'count' is not defined                     no-undef
+  229:9    warning  'arr' is not defined                       no-undef
+  230:14   warning  'count' is not defined                     no-undef
+  230:30   warning  'count' is not defined                     no-undef
+  230:46   warning  'count' is not defined                     no-undef
+  230:62   warning  'count' is not defined                     no-undef
+  230:78   warning  'count' is not defined                     no-undef
+  230:94   warning  'count' is not defined                     no-undef
+  230:109  warning  'count' is not defined                     no-undef
+  230:126  warning  'count' is not defined                     no-undef
+  235:2    warning  Unnecessary semicolon                      no-extra-semi
+  239:11   warning  'arr' is not defined                       no-undef
+  241:9    warning  'button2' is not defined                   no-undef
+  243:16   warning  'arr' is not defined                       no-undef
+  243:29   warning  Empty block statement                      no-empty
+  244:9    warning  'button2' is not defined                   no-undef
+  245:9    warning  'count' is not defined                     no-undef
+  246:9    warning  'arr' is not defined                       no-undef
+  247:14   warning  'count' is not defined                     no-undef
+  247:30   warning  'count' is not defined                     no-undef
+  247:46   warning  'count' is not defined                     no-undef
+  247:62   warning  'count' is not defined                     no-undef
+  247:78   warning  'count' is not defined                     no-undef
+  247:95   warning  'count' is not defined                     no-undef
+  247:110  warning  'count' is not defined                     no-undef
+  247:127  warning  'count' is not defined                     no-undef
+  252:2    warning  Unnecessary semicolon                      no-extra-semi
+  255:11   warning  'arr' is not defined                       no-undef
+  257:9    warning  'button3' is not defined                   no-undef
+  259:16   warning  'arr' is not defined                       no-undef
+  259:29   warning  Empty block statement                      no-empty
+  260:9    warning  'button3' is not defined                   no-undef
+  261:9    warning  'count' is not defined                     no-undef
+  262:9    warning  'arr' is not defined                       no-undef
+  264:14   warning  'count' is not defined                     no-undef
+  264:30   warning  'count' is not defined                     no-undef
+  264:46   warning  'count' is not defined                     no-undef
+  264:62   warning  'count' is not defined                     no-undef
+  264:78   warning  'count' is not defined                     no-undef
+  264:95   warning  'count' is not defined                     no-undef
+  264:110  warning  'count' is not defined                     no-undef
+  264:127  warning  'count' is not defined                     no-undef
+  268:2    warning  Unnecessary semicolon                      no-extra-semi
+  271:11   warning  'arr' is not defined                       no-undef
+  273:9    warning  'button4' is not defined                   no-undef
+  275:16   warning  'arr' is not defined                       no-undef
+  275:29   warning  Empty block statement                      no-empty
+  276:9    warning  'button4' is not defined                   no-undef
+  277:9    warning  'count' is not defined                     no-undef
+  278:9    warning  'arr' is not defined                       no-undef
+  279:14   warning  'count' is not defined                     no-undef
+  279:30   warning  'count' is not defined                     no-undef
+  279:46   warning  'count' is not defined                     no-undef
+  279:62   warning  'count' is not defined                     no-undef
+  279:78   warning  'count' is not defined                     no-undef
+  279:95   warning  'count' is not defined                     no-undef
+  279:110  warning  'count' is not defined                     no-undef
+  279:127  warning  'count' is not defined                     no-undef
+  284:2    warning  Unnecessary semicolon                      no-extra-semi
+  287:11   warning  'arr' is not defined                       no-undef
+  289:9    warning  'button5' is not defined                   no-undef
+  291:16   warning  'arr' is not defined                       no-undef
+  291:29   warning  Empty block statement                      no-empty
+  292:9    warning  'button5' is not defined                   no-undef
+  293:9    warning  'count' is not defined                     no-undef
+  294:9    warning  'arr' is not defined                       no-undef
+  295:14   warning  'count' is not defined                     no-undef
+  295:30   warning  'count' is not defined                     no-undef
+  295:46   warning  'count' is not defined                     no-undef
+  295:62   warning  'count' is not defined                     no-undef
+  295:78   warning  'count' is not defined                     no-undef
+  295:95   warning  'count' is not defined                     no-undef
+  295:110  warning  'count' is not defined                     no-undef
+  295:127  warning  'count' is not defined                     no-undef
+  300:2    warning  Unnecessary semicolon                      no-extra-semi
+  303:11   warning  'arr' is not defined                       no-undef
+  305:9    warning  'button6' is not defined                   no-undef
+  307:16   warning  'arr' is not defined                       no-undef
+  307:29   warning  Empty block statement                      no-empty
+  308:9    warning  'button6' is not defined                   no-undef
+  309:9    warning  'count' is not defined                     no-undef
+  310:9    warning  'arr' is not defined                       no-undef
+  311:14   warning  'count' is not defined                     no-undef
+  311:30   warning  'count' is not defined                     no-undef
+  311:46   warning  'count' is not defined                     no-undef
+  311:62   warning  'count' is not defined                     no-undef
+  311:78   warning  'count' is not defined                     no-undef
+  311:95   warning  'count' is not defined                     no-undef
+  311:110  warning  'count' is not defined                     no-undef
+  311:127  warning  'count' is not defined                     no-undef
+  316:2    warning  Unnecessary semicolon                      no-extra-semi
+  319:11   warning  'arr' is not defined                       no-undef
+  321:9    warning  'button7' is not defined                   no-undef
+  323:16   warning  'arr' is not defined                       no-undef
+  323:29   warning  Empty block statement                      no-empty
+  324:9    warning  'button7' is not defined                   no-undef
+  325:9    warning  'count' is not defined                     no-undef
+  326:9    warning  'arr' is not defined                       no-undef
+  327:14   warning  'count' is not defined                     no-undef
+  327:30   warning  'count' is not defined                     no-undef
+  327:46   warning  'count' is not defined                     no-undef
+  327:62   warning  'count' is not defined                     no-undef
+  327:78   warning  'count' is not defined                     no-undef
+  327:95   warning  'count' is not defined                     no-undef
+  327:110  warning  'count' is not defined                     no-undef
+  327:127  warning  'count' is not defined                     no-undef
+  333:2    warning  Unnecessary semicolon                      no-extra-semi
+  336:11   warning  'arr' is not defined                       no-undef
+  338:9    warning  'button8' is not defined                   no-undef
+  340:16   warning  'arr' is not defined                       no-undef
+  340:29   warning  Empty block statement                      no-empty
+  341:9    warning  'button8' is not defined                   no-undef
+  342:9    warning  'count' is not defined                     no-undef
+  343:9    warning  'arr' is not defined                       no-undef
+  344:14   warning  'count' is not defined                     no-undef
+  344:30   warning  'count' is not defined                     no-undef
+  344:46   warning  'count' is not defined                     no-undef
+  344:62   warning  'count' is not defined                     no-undef
+  344:78   warning  'count' is not defined                     no-undef
+  344:95   warning  'count' is not defined                     no-undef
+  344:110  warning  'count' is not defined                     no-undef
+  344:127  warning  'count' is not defined                     no-undef
+  349:2    warning  Unnecessary semicolon                      no-extra-semi
+  352:11   warning  'arr' is not defined                       no-undef
+  354:9    warning  'button9' is not defined                   no-undef
+  356:16   warning  'arr' is not defined                       no-undef
+  356:29   warning  Empty block statement                      no-empty
+  357:9    warning  'button9' is not defined                   no-undef
+  358:9    warning  'count' is not defined                     no-undef
+  359:9    warning  'arr' is not defined                       no-undef
+  360:14   warning  'count' is not defined                     no-undef
+  360:30   warning  'count' is not defined                     no-undef
+  360:46   warning  'count' is not defined                     no-undef
+  360:62   warning  'count' is not defined                     no-undef
+  360:78   warning  'count' is not defined                     no-undef
+  360:95   warning  'count' is not defined                     no-undef
+  360:110  warning  'count' is not defined                     no-undef
+  360:127  warning  'count' is not defined                     no-undef
+  365:2    warning  Unnecessary semicolon                      no-extra-semi
+  369:11   warning  'arr' is not defined                       no-undef
+  371:9    warning  'button10' is not defined                  no-undef
+  373:16   warning  'arr' is not defined                       no-undef
+  373:29   warning  Empty block statement                      no-empty
+  374:9    warning  'button10' is not defined                  no-undef
+  375:9    warning  'count' is not defined                     no-undef
+  376:9    warning  'arr' is not defined                       no-undef
+  377:14   warning  'count' is not defined                     no-undef
+  377:30   warning  'count' is not defined                     no-undef
+  377:46   warning  'count' is not defined                     no-undef
+  377:62   warning  'count' is not defined                     no-undef
+  377:78   warning  'count' is not defined                     no-undef
+  377:95   warning  'count' is not defined                     no-undef
+  377:110  warning  'count' is not defined                     no-undef
+  377:127  warning  'count' is not defined                     no-undef
+  382:2    warning  Unnecessary semicolon                      no-extra-semi
+  386:1    warning  'cnt1' is not defined                      no-undef
+  387:1    warning  'cnt2' is not defined                      no-undef
+  388:1    warning  'cnt3' is not defined                      no-undef
+  389:1    warning  'cnt4' is not defined                      no-undef
+  390:1    warning  'cnt5' is not defined                      no-undef
+  391:1    warning  'cnt6' is not defined                      no-undef
+  392:1    warning  'cnt7' is not defined                      no-undef
+  393:1    warning  'cnt8' is not defined                      no-undef
+  394:1    warning  'cnt9' is not defined                      no-undef
+  395:1    warning  'c' is not defined                         no-undef
+  396:1    warning  'ack2' is not defined                      no-undef
+  397:1    warning  'ack5' is not defined                      no-undef
+  401:5    warning  'stroke' is not defined                    no-undef
+  402:5    warning  'fill' is not defined                      no-undef
+  403:5    warning  'square' is not defined                    no-undef
+  408:5    warning  'stroke' is not defined                    no-undef
+  409:5    warning  'fill' is not defined                      no-undef
+  410:5    warning  'square' is not defined                    no-undef
+  415:5    warning  'strokeWeight' is not defined              no-undef
+  416:5    warning  'stroke' is not defined                    no-undef
+  417:5    warning  'line' is not defined                      no-undef
+  418:5    warning  'line' is not defined                      no-undef
+  423:5    warning  'strokeWeight' is not defined              no-undef
+  424:5    warning  'fill' is not defined                      no-undef
+  425:5    warning  'textSize' is not defined                  no-undef
+  426:5    warning  'text' is not defined                      no-undef
+  427:5    warning  'text' is not defined                      no-undef
+  428:5    warning  'strokeWeight' is not defined              no-undef
+  429:5    warning  'textSize' is not defined                  no-undef
+  430:5    warning  'text' is not defined                      no-undef
+  431:5    warning  'text' is not defined                      no-undef
+  432:5    warning  'text' is not defined                      no-undef
+  433:5    warning  'text' is not defined                      no-undef
+  434:5    warning  'fill' is not defined                      no-undef
+  435:5    warning  'text' is not defined                      no-undef
+  441:5    warning  'strokeWeight' is not defined              no-undef
+  442:5    warning  'stroke' is not defined                    no-undef
+  443:5    warning  'fill' is not defined                      no-undef
+  444:5    warning  'rect' is not defined                      no-undef
+  445:5    warning  'stroke' is not defined                    no-undef
+  446:5    warning  'fill' is not defined                      no-undef
+  447:5    warning  'textSize' is not defined                  no-undef
+  448:5    warning  'text' is not defined                      no-undef
+  449:5    warning  'strokeWeight' is not defined              no-undef
+  450:5    warning  'stroke' is not defined                    no-undef
+  458:7    warning  'Swal' is not defined                      no-undef
+  474:7    warning  'Swal' is not defined                      no-undef
+  492:5    warning  'Swal' is not defined                      no-undef
+  511:5    warning  'Swal' is not defined                      no-undef
+  527:11   warning  'draw' is defined but never used           no-unused-vars
+  528:5    warning  'background' is not defined                no-undef
+  528:16   warning  'color' is not defined                     no-undef
+  530:5    warning  'strokeWeight' is not defined              no-undef
+  531:5    warning  'stroke' is not defined                    no-undef
+  532:5    warning  'fill' is not defined                      no-undef
+  533:5    warning  'square' is not defined                    no-undef
+  538:5    warning  'textSize' is not defined                  no-undef
+  542:5    warning  'textSize' is not defined                  no-undef
+  543:5    warning  'stroke' is not defined                    no-undef
+  544:5    warning  'fill' is not defined                      no-undef
+  547:5    warning  'strokeWeight' is not defined              no-undef
+  548:5    warning  'stroke' is not defined                    no-undef
+  550:9    warning  'count' is not defined                     no-undef
+  551:9    warning  'cnt1' is not defined                      no-undef
+  553:9    warning  'count' is not defined                     no-undef
+  554:9    warning  'cnt2' is not defined                      no-undef
+  556:9    warning  'count' is not defined                     no-undef
+  557:9    warning  'cnt3' is not defined                      no-undef
+  560:9    warning  'count' is not defined                     no-undef
+  561:9    warning  'cnt4' is not defined                      no-undef
+  564:9    warning  'count' is not defined                     no-undef
+  565:9    warning  'cnt5' is not defined                      no-undef
+  568:9    warning  'count' is not defined                     no-undef
+  569:9    warning  'cnt6' is not defined                      no-undef
+  572:9    warning  'count' is not defined                     no-undef
+  573:9    warning  'cnt7' is not defined                      no-undef
+  576:9    warning  'count' is not defined                     no-undef
+  577:9    warning  'cnt8' is not defined                      no-undef
+  582:9    warning  'cnt1' is not defined                      no-undef
+  583:5    warning  'stroke' is not defined                    no-undef
+  584:5    warning  'fill' is not defined                      no-undef
+  585:5    warning  'textSize' is not defined                  no-undef
+  586:5    warning  'text' is not defined                      no-undef
+  587:5    warning  'text' is not defined                      no-undef
+  588:5    warning  'text' is not defined                      no-undef
+  590:13   warning  'stroke' is not defined                    no-undef
+  595:17   warning  'line' is not defined                      no-undef
+  597:17   warning  'cnt2' is not defined                      no-undef
+  598:17   warning  'line' is not defined                      no-undef
+  602:17   warning  'cnt3' is not defined                      no-undef
+  603:17   warning  'line' is not defined                      no-undef
+  608:13   warning  'stroke' is not defined                    no-undef
+  609:13   warning  'fill' is not defined                      no-undef
+  610:13   warning  'textSize' is not defined                  no-undef
+  611:13   warning  'text' is not defined                      no-undef
+  612:13   warning  'stroke' is not defined                    no-undef
+  613:17   warning  'a' is not defined                         no-undef
+  614:17   warning  'a' is not defined                         no-undef
+  614:21   warning  'a' is not defined                         no-undef
+  614:25   warning  'A' is not defined                         no-undef
+  615:17   warning  'b' is not defined                         no-undef
+  615:21   warning  'b' is not defined                         no-undef
+  615:25   warning  'B' is not defined                         no-undef
+  616:17   warning  'line' is not defined                      no-undef
+  616:22   warning  'a' is not defined                         no-undef
+  616:25   warning  'b' is not defined                         no-undef
+  619:17   warning  'a' is not defined                         no-undef
+  620:17   warning  'arr' is not defined                       no-undef
+  628:9    warning  'cnt2' is not defined                      no-undef
+  629:9    warning  'stroke' is not defined                    no-undef
+  630:5    warning  'fill' is not defined                      no-undef
+  631:5    warning  'textSize' is not defined                  no-undef
+  632:9    warning  'text' is not defined                      no-undef
+  634:9    warning  'stroke' is not defined                    no-undef
+  635:13   warning  'x1' is not defined                        no-undef
+  636:13   warning  'x1' is not defined                        no-undef
+  636:18   warning  'x1' is not defined                        no-undef
+  637:13   warning  'y1' is not defined                        no-undef
+  637:18   warning  'y1' is not defined                        no-undef
+  638:16   warning  'cnt4' is not defined                      no-undef
+  643:17   warning  'cnt3' is not defined                      no-undef
+  645:17   warning  'line' is not defined                      no-undef
+  645:22   warning  'x1' is not defined                        no-undef
+  645:26   warning  'y1' is not defined                        no-undef
+  649:13   warning  'x1' is not defined                        no-undef
+  650:13   warning  'stroke' is not defined                    no-undef
+  651:17   warning  'a1' is not defined                        no-undef
+  652:17   warning  'a1' is not defined                        no-undef
+  652:22   warning  'a1' is not defined                        no-undef
+  652:27   warning  'A' is not defined                         no-undef
+  653:17   warning  'b1' is not defined                        no-undef
+  653:22   warning  'b1' is not defined                        no-undef
+  653:27   warning  'B' is not defined                         no-undef
+  655:17   warning  'x1' is not defined                        no-undef
+  656:17   warning  'line' is not defined                      no-undef
+  656:22   warning  'a1' is not defined                        no-undef
+  656:26   warning  'b1' is not defined                        no-undef
+  657:17   warning  'stroke' is not defined                    no-undef
+  658:17   warning  'fill' is not defined                      no-undef
+  659:17   warning  'textSize' is not defined                  no-undef
+  660:17   warning  'text' is not defined                      no-undef
+  663:13   warning  'x1' is not defined                        no-undef
+  664:13   warning  'arr' is not defined                       no-undef
+  665:13   warning  'Swal' is not defined                      no-undef
+  678:11   warning  'ack2' is not defined                      no-undef
+  682:4    warning  'ack2' is not defined                      no-undef
+  684:5    warning  'stroke' is not defined                    no-undef
+  685:5    warning  'fill' is not defined                      no-undef
+  686:5    warning  'textSize' is not defined                  no-undef
+  687:5    warning  'text' is not defined                      no-undef
+  690:9    warning  'cnt3' is not defined                      no-undef
+  691:9    warning  'stroke' is not defined                    no-undef
+  692:9    warning  'fill' is not defined                      no-undef
+  693:9    warning  'textSize' is not defined                  no-undef
+  694:9    warning  'text' is not defined                      no-undef
+  695:9    warning  'text' is not defined                      no-undef
+  696:9    warning  'text' is not defined                      no-undef
+  697:9    warning  'fill' is not defined                      no-undef
+  701:13   warning  'x2' is not defined                        no-undef
+  702:13   warning  'stroke' is not defined                    no-undef
+  703:13   warning  'x2' is not defined                        no-undef
+  703:18   warning  'x2' is not defined                        no-undef
+  704:13   warning  'y2' is not defined                        no-undef
+  704:18   warning  'y2' is not defined                        no-undef
+  705:17   warning  'x2' is not defined                        no-undef
+  706:17   warning  'line' is not defined                      no-undef
+  706:22   warning  'x2' is not defined                        no-undef
+  706:26   warning  'y2' is not defined                        no-undef
+  708:17   warning  'cnt4' is not defined                      no-undef
+  709:17   warning  'line' is not defined                      no-undef
+  709:22   warning  'x2' is not defined                        no-undef
+  709:26   warning  'y2' is not defined                        no-undef
+  712:17   warning  'cnt5' is not defined                      no-undef
+  713:17   warning  'line' is not defined                      no-undef
+  713:22   warning  'x2' is not defined                        no-undef
+  713:26   warning  'y2' is not defined                        no-undef
+  715:16   warning  'x2' is not defined                        no-undef
+  721:13   warning  'x2' is not defined                        no-undef
+  723:13   warning  'stroke' is not defined                    no-undef
+  724:13   warning  'fill' is not defined                      no-undef
+  725:13   warning  'textSize' is not defined                  no-undef
+  726:13   warning  'text' is not defined                      no-undef
+  727:13   warning  'stroke' is not defined                    no-undef
+  728:17   warning  'a2' is not defined                        no-undef
+  729:17   warning  'a2' is not defined                        no-undef
+  729:22   warning  'a2' is not defined                        no-undef
+  729:27   warning  'A' is not defined                         no-undef
+  730:17   warning  'b2' is not defined                        no-undef
+  730:22   warning  'b2' is not defined                        no-undef
+  730:27   warning  'B' is not defined                         no-undef
+  731:17   warning  'line' is not defined                      no-undef
+  731:22   warning  'a2' is not defined                        no-undef
+  731:26   warning  'b2' is not defined                        no-undef
+  734:17   warning  'a2' is not defined                        no-undef
+  735:17   warning  'arr' is not defined                       no-undef
+  742:9    warning  'cnt4' is not defined                      no-undef
+  743:9    warning  'stroke' is not defined                    no-undef
+  744:9    warning  'fill' is not defined                      no-undef
+  745:9    warning  'textSize' is not defined                  no-undef
+  746:9    warning  'text' is not defined                      no-undef
+  747:9    warning  'text' is not defined                      no-undef
+  748:13   warning  'x3' is not defined                        no-undef
+  749:13   warning  'stroke' is not defined                    no-undef
+  750:13   warning  'x3' is not defined                        no-undef
+  750:18   warning  'x3' is not defined                        no-undef
+  751:13   warning  'y3' is not defined                        no-undef
+  751:18   warning  'y3' is not defined                        no-undef
+  752:17   warning  'x3' is not defined                        no-undef
+  753:21   warning  'x3' is not defined                        no-undef
+  754:26   warning  'x3' is not defined                        no-undef
+  755:26   warning  'y3' is not defined                        no-undef
+  761:17   warning  'cnt5' is not defined                      no-undef
+  765:21   warning  'cnt7' is not defined                      no-undef
+  766:21   warning  'line' is not defined                      no-undef
+  772:13   warning  'x3' is not defined                        no-undef
+  773:13   warning  'stroke' is not defined                    no-undef
+  774:17   warning  'a3' is not defined                        no-undef
+  775:17   warning  'a3' is not defined                        no-undef
+  775:22   warning  'a3' is not defined                        no-undef
+  775:27   warning  'A' is not defined                         no-undef
+  776:17   warning  'b3' is not defined                        no-undef
+  776:22   warning  'b3' is not defined                        no-undef
+  776:27   warning  'B' is not defined                         no-undef
+  777:17   warning  'line' is not defined                      no-undef
+  777:22   warning  'a3' is not defined                        no-undef
+  777:26   warning  'b3' is not defined                        no-undef
+  781:13   warning  'a3' is not defined                        no-undef
+  782:13   warning  'arr' is not defined                       no-undef
+  789:9    warning  'cnt5' is not defined                      no-undef
+  790:9    warning  'stroke' is not defined                    no-undef
+  791:9    warning  'fill' is not defined                      no-undef
+  792:9    warning  'textSize' is not defined                  no-undef
+  793:9    warning  'text' is not defined                      no-undef
+  794:9    warning  'text' is not defined                      no-undef
+  795:13   warning  'x4' is not defined                        no-undef
+  796:13   warning  'stroke' is not defined                    no-undef
+  797:13   warning  'x4' is not defined                        no-undef
+  797:18   warning  'x4' is not defined                        no-undef
+  798:13   warning  'y4' is not defined                        no-undef
+  798:18   warning  'y4' is not defined                        no-undef
+  799:17   warning  'x4' is not defined                        no-undef
+  800:20   warning  'cnt6' is not defined                      no-undef
+  804:21   warning  'cnt7' is not defined                      no-undef
+  805:21   warning  'line' is not defined                      no-undef
+  805:26   warning  'x4' is not defined                        no-undef
+  805:30   warning  'y4' is not defined                        no-undef
+  809:13   warning  'x4' is not defined                        no-undef
+  810:13   warning  'stroke' is not defined                    no-undef
+  811:17   warning  'a4' is not defined                        no-undef
+  812:17   warning  'a4' is not defined                        no-undef
+  812:22   warning  'a4' is not defined                        no-undef
+  812:27   warning  'A' is not defined                         no-undef
+  813:17   warning  'b4' is not defined                        no-undef
+  813:22   warning  'b4' is not defined                        no-undef
+  813:27   warning  'B' is not defined                         no-undef
+  814:17   warning  'line' is not defined                      no-undef
+  814:22   warning  'a4' is not defined                        no-undef
+  814:26   warning  'b4' is not defined                        no-undef
+  818:13   warning  'a4' is not defined                        no-undef
+  819:13   warning  'arr' is not defined                       no-undef
+  827:9    warning  'cnt6' is not defined                      no-undef
+  828:9    warning  'stroke' is not defined                    no-undef
+  829:9    warning  'fill' is not defined                      no-undef
+  830:9    warning  'textSize' is not defined                  no-undef
+  831:9    warning  'text' is not defined                      no-undef
+  832:9    warning  'stroke' is not defined                    no-undef
+  833:13   warning  'x5' is not defined                        no-undef
+  834:13   warning  'x5' is not defined                        no-undef
+  834:18   warning  'x5' is not defined                        no-undef
+  835:13   warning  'y5' is not defined                        no-undef
+  835:18   warning  'y5' is not defined                        no-undef
+  837:17   warning  'cnt8' is not defined                      no-undef
+  842:17   warning  'cnt7' is not defined                      no-undef
+  844:21   warning  'line' is not defined                      no-undef
+  844:26   warning  'x5' is not defined                        no-undef
+  844:30   warning  'y5' is not defined                        no-undef
+  849:17   warning  'x5' is not defined                        no-undef
+  850:17   warning  'arr' is not defined                       no-undef
+  851:17   warning  'Swal' is not defined                      no-undef
+  864:17   warning  'ack5' is not defined                      no-undef
+  868:12   warning  'ack5' is not defined                      no-undef
+  870:13   warning  'stroke' is not defined                    no-undef
+  871:13   warning  'fill' is not defined                      no-undef
+  872:13   warning  'textSize' is not defined                  no-undef
+  873:13   warning  'text' is not defined                      no-undef
+  878:9    warning  'cnt7' is not defined                      no-undef
+  879:9    warning  'stroke' is not defined                    no-undef
+  880:9    warning  'fill' is not defined                      no-undef
+  881:9    warning  'text' is not defined                      no-undef
+  882:9    warning  'text' is not defined                      no-undef
+  883:9    warning  'fill' is not defined                      no-undef
+  884:9    warning  'textSize' is not defined                  no-undef
+  885:9    warning  'text' is not defined                      no-undef
+  886:9    warning  'text' is not defined                      no-undef
+  887:9    warning  'text' is not defined                      no-undef
+  888:9    warning  'stroke' is not defined                    no-undef
+  889:13   warning  'x6' is not defined                        no-undef
+  890:13   warning  'x6' is not defined                        no-undef
+  890:18   warning  'x6' is not defined                        no-undef
+  891:13   warning  'y6' is not defined                        no-undef
+  891:18   warning  'y6' is not defined                        no-undef
+  893:17   warning  'x6' is not defined                        no-undef
+  894:17   warning  'line' is not defined                      no-undef
+  894:22   warning  'x6' is not defined                        no-undef
+  894:26   warning  'y6' is not defined                        no-undef
+  895:17   warning  'line' is not defined                      no-undef
+  895:22   warning  'x6' is not defined                        no-undef
+  895:26   warning  'y6' is not defined                        no-undef
+  896:17   warning  'line' is not defined                      no-undef
+  896:22   warning  'x6' is not defined                        no-undef
+  896:26   warning  'y6' is not defined                        no-undef
+  901:13   warning  'x6' is not defined                        no-undef
+  902:13   warning  'stroke' is not defined                    no-undef
+  903:13   warning  'fill' is not defined                      no-undef
+  904:13   warning  'textSize' is not defined                  no-undef
+  905:13   warning  'text' is not defined                      no-undef
+  906:13   warning  'text' is not defined                      no-undef
+  907:13   warning  'text' is not defined                      no-undef
+  908:13   warning  'stroke' is not defined                    no-undef
+  909:17   warning  'a6' is not defined                        no-undef
+  910:17   warning  'a6' is not defined                        no-undef
+  910:22   warning  'a6' is not defined                        no-undef
+  910:27   warning  'A' is not defined                         no-undef
+  911:17   warning  'b6' is not defined                        no-undef
+  911:22   warning  'b6' is not defined                        no-undef
+  911:27   warning  'B' is not defined                         no-undef
+  912:17   warning  'line' is not defined                      no-undef
+  912:22   warning  'a6' is not defined                        no-undef
+  912:26   warning  'b6' is not defined                        no-undef
+  913:17   warning  'line' is not defined                      no-undef
+  913:22   warning  'a6' is not defined                        no-undef
+  913:26   warning  'b6' is not defined                        no-undef
+  914:17   warning  'line' is not defined                      no-undef
+  914:22   warning  'a6' is not defined                        no-undef
+  914:26   warning  'b6' is not defined                        no-undef
+  916:17   warning  'a6' is not defined                        no-undef
+  918:17   warning  'arr' is not defined                       no-undef
+  927:9    warning  'cnt8' is not defined                      no-undef
+  928:9    warning  'stroke' is not defined                    no-undef
+  929:9    warning  'fill' is not defined                      no-undef
+  930:9    warning  'textSize' is not defined                  no-undef
+  931:9    warning  'text' is not defined                      no-undef
+  932:9    warning  'text' is not defined                      no-undef
+  933:9    warning  'text' is not defined                      no-undef
+  934:9    warning  'stroke' is not defined                    no-undef
+  935:12   warning  'cnt9' is not defined                      no-undef
+  937:13   warning  'x7' is not defined                        no-undef
+  938:13   warning  'x7' is not defined                        no-undef
+  938:18   warning  'x7' is not defined                        no-undef
+  939:13   warning  'y7' is not defined                        no-undef
+  939:18   warning  'y7' is not defined                        no-undef
+  940:17   warning  'x7' is not defined                        no-undef
+  941:17   warning  'line' is not defined                      no-undef
+  941:22   warning  'x7' is not defined                        no-undef
+  941:26   warning  'y7' is not defined                        no-undef
+  942:17   warning  'line' is not defined                      no-undef
+  942:22   warning  'x7' is not defined                        no-undef
+  942:26   warning  'y7' is not defined                        no-undef
+  943:17   warning  'line' is not defined                      no-undef
+  943:22   warning  'x7' is not defined                        no-undef
+  943:26   warning  'y7' is not defined                        no-undef
+  948:13   warning  'x7' is not defined                        no-undef
+  949:13   warning  'stroke' is not defined                    no-undef
+  950:13   warning  'fill' is not defined                      no-undef
+  951:13   warning  'textSize' is not defined                  no-undef
+  952:13   warning  'text' is not defined                      no-undef
+  953:13   warning  'text' is not defined                      no-undef
+  954:13   warning  'text' is not defined                      no-undef
+  955:13   warning  'stroke' is not defined                    no-undef
+  956:17   warning  'a7' is not defined                        no-undef
+  957:17   warning  'a7' is not defined                        no-undef
+  957:22   warning  'a7' is not defined                        no-undef
+  957:27   warning  'A' is not defined                         no-undef
+  958:17   warning  'b7' is not defined                        no-undef
+  958:22   warning  'b7' is not defined                        no-undef
+  958:27   warning  'B' is not defined                         no-undef
+  959:17   warning  'line' is not defined                      no-undef
+  959:22   warning  'a7' is not defined                        no-undef
+  959:26   warning  'b7' is not defined                        no-undef
+  960:17   warning  'line' is not defined                      no-undef
+  960:22   warning  'a7' is not defined                        no-undef
+  960:26   warning  'b7' is not defined                        no-undef
+  961:17   warning  'line' is not defined                      no-undef
+  961:22   warning  'a7' is not defined                        no-undef
+  961:26   warning  'b7' is not defined                        no-undef
+  963:17   warning  'a7' is not defined                        no-undef
+  964:17   warning  'arr' is not defined                       no-undef
+  965:18   warning  'cnt9' is not defined                      no-undef
+  966:18   warning  'Swal' is not defined                      no-undef
+  978:18   warning  'button' is not defined                    no-undef
+  987:2    warning  Unnecessary semicolon                      no-extra-semi
+
+/home/runner/work/exp-go-back-narq-iitr/exp-go-back-narq-iitr/experiment/simulation/js/sketch4.js
+    3:5   warning  'flag' is assigned a value but never used  no-unused-vars
+    8:10  warning  'setup' is defined but never used          no-unused-vars
+    9:16  warning  'createCanvas' is not defined              no-undef
+   15:5   warning  'a' is not defined                         no-undef
+   16:5   warning  'b' is not defined                         no-undef
+   17:5   warning  'A' is not defined                         no-undef
+   18:5   warning  'B' is not defined                         no-undef
+   27:5   warning  'x3' is not defined                        no-undef
+   28:5   warning  'y3' is not defined                        no-undef
+   29:5   warning  'a3' is not defined                        no-undef
+   30:5   warning  'b3' is not defined                        no-undef
+   41:5   warning  'arr' is not defined                       no-undef
+   42:5   warning  'strokeWeight' is not defined              no-undef
+   43:5   warning  'label' is not defined                     no-undef
+   43:13  warning  'createElement' is not defined             no-undef
+   44:5   warning  'label' is not defined                     no-undef
+   45:5   warning  'label' is not defined                     no-undef
+   46:5   warning  'button1' is not defined                   no-undef
+   46:15  warning  'createButton' is not defined              no-undef
+   47:5   warning  'button1' is not defined                   no-undef
+   48:5   warning  'button1' is not defined                   no-undef
+   49:5   warning  'button1' is not defined                   no-undef
+   50:5   warning  'button1' is not defined                   no-undef
+   51:5   warning  'button1' is not defined                   no-undef
+   52:5   warning  'button2' is not defined                   no-undef
+   52:15  warning  'createButton' is not defined              no-undef
+   53:5   warning  'button2' is not defined                   no-undef
+   54:5   warning  'button2' is not defined                   no-undef
+   55:5   warning  'button2' is not defined                   no-undef
+   56:5   warning  'button2' is not defined                   no-undef
+   57:5   warning  'button2' is not defined                   no-undef
+   58:5   warning  'button3' is not defined                   no-undef
+   58:15  warning  'createButton' is not defined              no-undef
+   59:5   warning  'button3' is not defined                   no-undef
+   60:5   warning  'button3' is not defined                   no-undef
+   61:5   warning  'button3' is not defined                   no-undef
+   62:5   warning  'button3' is not defined                   no-undef
+   63:5   warning  'button3' is not defined                   no-undef
+   64:5   warning  'button4' is not defined                   no-undef
+   64:15  warning  'createButton' is not defined              no-undef
+   65:5   warning  'button4' is not defined                   no-undef
+   66:5   warning  'button4' is not defined                   no-undef
+   67:5   warning  'button4' is not defined                   no-undef
+   68:5   warning  'button4' is not defined                   no-undef
+   69:5   warning  'button4' is not defined                   no-undef
+   70:5   warning  'button5' is not defined                   no-undef
+   70:15  warning  'createButton' is not defined              no-undef
+   71:5   warning  'button5' is not defined                   no-undef
+   72:5   warning  'button5' is not defined                   no-undef
+   73:5   warning  'button5' is not defined                   no-undef
+   74:5   warning  'button5' is not defined                   no-undef
+   75:5   warning  'button5' is not defined                   no-undef
+   76:5   warning  'button6' is not defined                   no-undef
+   76:15  warning  'createButton' is not defined              no-undef
+   77:5   warning  'button6' is not defined                   no-undef
+   78:5   warning  'button6' is not defined                   no-undef
+   79:5   warning  'button6' is not defined                   no-undef
+   80:5   warning  'button6' is not defined                   no-undef
+   81:5   warning  'button6' is not defined                   no-undef
+   82:5   warning  'button7' is not defined                   no-undef
+   82:15  warning  'createButton' is not defined              no-undef
+   83:5   warning  'button7' is not defined                   no-undef
+   84:5   warning  'button7' is not defined                   no-undef
+   85:5   warning  'button7' is not defined                   no-undef
+   86:5   warning  'button7' is not defined                   no-undef
+   87:5   warning  'button7' is not defined                   no-undef
+   88:5   warning  'button8' is not defined                   no-undef
+   88:15  warning  'createButton' is not defined              no-undef
+   89:5   warning  'button8' is not defined                   no-undef
+   90:5   warning  'button8' is not defined                   no-undef
+   91:5   warning  'button8' is not defined                   no-undef
+   92:5   warning  'button8' is not defined                   no-undef
+   93:5   warning  'button8' is not defined                   no-undef
+   94:5   warning  'button9' is not defined                   no-undef
+   94:15  warning  'createButton' is not defined              no-undef
+   95:5   warning  'button9' is not defined                   no-undef
+   96:5   warning  'button9' is not defined                   no-undef
+   97:5   warning  'button9' is not defined                   no-undef
+   98:5   warning  'button9' is not defined                   no-undef
+   99:5   warning  'button9' is not defined                   no-undef
+  100:5   warning  'button10' is not defined                  no-undef
+  100:16  warning  'createButton' is not defined              no-undef
+  101:5   warning  'button10' is not defined                  no-undef
+  102:5   warning  'button10' is not defined                  no-undef
+  103:5   warning  'button10' is not defined                  no-undef
+  104:5   warning  'button10' is not defined                  no-undef
+  105:5   warning  'button10' is not defined                  no-undef
+  107:5   warning  'button1' is not defined                   no-undef
+  108:5   warning  'button2' is not defined                   no-undef
+  109:5   warning  'button3' is not defined                   no-undef
+  110:5   warning  'button4' is not defined                   no-undef
+  111:5   warning  'button5' is not defined                   no-undef
+  112:5   warning  'button6' is not defined                   no-undef
+  113:5   warning  'button7' is not defined                   no-undef
+  114:5   warning  'button8' is not defined                   no-undef
+  115:5   warning  'button9' is not defined                   no-undef
+  116:5   warning  'button10' is not defined                  no-undef
+  118:9   warning  'createInput' is not defined               no-undef
+  122:3   warning  'button' is not defined                    no-undef
+  122:12  warning  'createButton' is not defined              no-undef
+  123:3   warning  'button' is not defined                    no-undef
+  124:3   warning  'button' is not defined                    no-undef
+  125:3   warning  'button' is not defined                    no-undef
+  126:3   warning  'button' is not defined                    no-undef
+  127:3   warning  'button11' is not defined                  no-undef
+  127:14  warning  'createButton' is not defined              no-undef
+  128:3   warning  'button11' is not defined                  no-undef
+  129:3   warning  'button11' is not defined                  no-undef
+  130:3   warning  'button11' is not defined                  no-undef
+  131:3   warning  'button11' is not defined                  no-undef
+  141:5   warning  'button1' is not defined                   no-undef
+  142:5   warning  'button2' is not defined                   no-undef
+  143:5   warning  'button3' is not defined                   no-undef
+  144:5   warning  'button4' is not defined                   no-undef
+  145:5   warning  'button5' is not defined                   no-undef
+  146:5   warning  'button6' is not defined                   no-undef
+  147:5   warning  'button7' is not defined                   no-undef
+  148:5   warning  'button8' is not defined                   no-undef
+  149:5   warning  'button9' is not defined                   no-undef
+  150:5   warning  'button10' is not defined                  no-undef
+  153:9   warning  'button1' is not defined                   no-undef
+  154:9   warning  'button2' is not defined                   no-undef
+  155:9   warning  'button3' is not defined                   no-undef
+  156:9   warning  'button4' is not defined                   no-undef
+  157:9   warning  'button5' is not defined                   no-undef
+  158:9   warning  'button6' is not defined                   no-undef
+  159:9   warning  'button7' is not defined                   no-undef
+  160:9   warning  'button8' is not defined                   no-undef
+  161:9   warning  'button9' is not defined                   no-undef
+  162:9   warning  'button10' is not defined                  no-undef
+  169:5   warning  'button1' is not defined                   no-undef
+  170:5   warning  'button2' is not defined                   no-undef
+  171:5   warning  'button3' is not defined                   no-undef
+  172:5   warning  'button4' is not defined                   no-undef
+  173:5   warning  'button5' is not defined                   no-undef
+  174:5   warning  'button6' is not defined                   no-undef
+  175:5   warning  'button7' is not defined                   no-undef
+  176:5   warning  'button8' is not defined                   no-undef
+  177:5   warning  'button9' is not defined                   no-undef
+  178:5   warning  'button10' is not defined                  no-undef
+  185:5   warning  'Swal' is not defined                      no-undef
+  203:11  warning  'arr' is not defined                       no-undef
+  205:9   warning  'button1' is not defined                   no-undef
+  207:16  warning  'arr' is not defined                       no-undef
+  207:29  warning  Empty block statement                      no-empty
+  208:9   warning  'button1' is not defined                   no-undef
+  210:9   warning  'arr' is not defined                       no-undef
+  216:2   warning  Unnecessary semicolon                      no-extra-semi
+  220:11  warning  'arr' is not defined                       no-undef
+  222:9   warning  'button2' is not defined                   no-undef
+  224:16  warning  'arr' is not defined                       no-undef
+  224:29  warning  Empty block statement                      no-empty
+  225:9   warning  'button2' is not defined                   no-undef
+  227:9   warning  'arr' is not defined                       no-undef
+  232:2   warning  Unnecessary semicolon                      no-extra-semi
+  235:11  warning  'arr' is not defined                       no-undef
+  237:9   warning  'button3' is not defined                   no-undef
+  239:16  warning  'arr' is not defined                       no-undef
+  239:29  warning  Empty block statement                      no-empty
+  240:9   warning  'button3' is not defined                   no-undef
+  242:9   warning  'arr' is not defined                       no-undef
+  247:2   warning  Unnecessary semicolon                      no-extra-semi
+  250:11  warning  'arr' is not defined                       no-undef
+  252:9   warning  'button4' is not defined                   no-undef
+  254:16  warning  'arr' is not defined                       no-undef
+  254:29  warning  Empty block statement                      no-empty
+  255:9   warning  'button4' is not defined                   no-undef
+  257:9   warning  'arr' is not defined                       no-undef
+  263:2   warning  Unnecessary semicolon                      no-extra-semi
+  266:11  warning  'arr' is not defined                       no-undef
+  268:9   warning  'button5' is not defined                   no-undef
+  270:16  warning  'arr' is not defined                       no-undef
+  270:29  warning  Empty block statement                      no-empty
+  271:9   warning  'button5' is not defined                   no-undef
+  273:9   warning  'arr' is not defined                       no-undef
+  279:2   warning  Unnecessary semicolon                      no-extra-semi
+  282:11  warning  'arr' is not defined                       no-undef
+  284:9   warning  'button6' is not defined                   no-undef
+  286:16  warning  'arr' is not defined                       no-undef
+  286:29  warning  Empty block statement                      no-empty
+  287:9   warning  'button6' is not defined                   no-undef
+  289:9   warning  'arr' is not defined                       no-undef
+  295:2   warning  Unnecessary semicolon                      no-extra-semi
+  298:11  warning  'arr' is not defined                       no-undef
+  300:9   warning  'button7' is not defined                   no-undef
+  302:16  warning  'arr' is not defined                       no-undef
+  302:29  warning  Empty block statement                      no-empty
+  303:9   warning  'button7' is not defined                   no-undef
+  305:9   warning  'arr' is not defined                       no-undef
+  311:2   warning  Unnecessary semicolon                      no-extra-semi
+  314:11  warning  'arr' is not defined                       no-undef
+  316:9   warning  'button8' is not defined                   no-undef
+  318:16  warning  'arr' is not defined                       no-undef
+  318:29  warning  Empty block statement                      no-empty
+  319:9   warning  'button8' is not defined                   no-undef
+  321:9   warning  'arr' is not defined                       no-undef
+  327:2   warning  Unnecessary semicolon                      no-extra-semi
+  330:11  warning  'arr' is not defined                       no-undef
+  332:9   warning  'button9' is not defined                   no-undef
+  334:16  warning  'arr' is not defined                       no-undef
+  334:29  warning  Empty block statement                      no-empty
+  335:9   warning  'button9' is not defined                   no-undef
+  337:9   warning  'arr' is not defined                       no-undef
+  343:2   warning  Unnecessary semicolon                      no-extra-semi
+  347:11  warning  'arr' is not defined                       no-undef
+  349:9   warning  'button10' is not defined                  no-undef
+  351:16  warning  'arr' is not defined                       no-undef
+  351:29  warning  Empty block statement                      no-empty
+  352:9   warning  'button10' is not defined                  no-undef
+  354:9   warning  'arr' is not defined                       no-undef
+  360:2   warning  Unnecessary semicolon                      no-extra-semi
+  364:1   warning  'cnt1' is not defined                      no-undef
+  365:1   warning  'cnt2' is not defined                      no-undef
+  366:1   warning  'cnt3' is not defined                      no-undef
+  367:1   warning  'cnt4' is not defined                      no-undef
+  368:1   warning  'cnt5' is not defined                      no-undef
+  369:1   warning  'cnt6' is not defined                      no-undef
+  370:1   warning  'cnt7' is not defined                      no-undef
+  371:1   warning  'ack3' is not defined                      no-undef
+  372:1   warning  'ack7' is not defined                      no-undef
+  376:5   warning  'stroke' is not defined                    no-undef
+  377:5   warning  'fill' is not defined                      no-undef
+  378:5   warning  'square' is not defined                    no-undef
+  383:5   warning  'stroke' is not defined                    no-undef
+  384:5   warning  'fill' is not defined                      no-undef
+  385:5   warning  'square' is not defined                    no-undef
+  390:5   warning  'strokeWeight' is not defined              no-undef
+  391:5   warning  'stroke' is not defined                    no-undef
+  392:5   warning  'line' is not defined                      no-undef
+  393:5   warning  'line' is not defined                      no-undef
+  397:5   warning  'strokeWeight' is not defined              no-undef
+  398:5   warning  'fill' is not defined                      no-undef
+  399:5   warning  'textSize' is not defined                  no-undef
+  400:5   warning  'text' is not defined                      no-undef
+  401:5   warning  'text' is not defined                      no-undef
+  402:5   warning  'strokeWeight' is not defined              no-undef
+  403:5   warning  'textSize' is not defined                  no-undef
+  404:5   warning  'textSize' is not defined                  no-undef
+  405:5   warning  'text' is not defined                      no-undef
+  406:5   warning  'text' is not defined                      no-undef
+  407:5   warning  'text' is not defined                      no-undef
+  408:5   warning  'text' is not defined                      no-undef
+  409:5   warning  'fill' is not defined                      no-undef
+  410:5   warning  'text' is not defined                      no-undef
+  415:5   warning  'strokeWeight' is not defined              no-undef
+  416:5   warning  'stroke' is not defined                    no-undef
+  417:5   warning  'fill' is not defined                      no-undef
+  418:5   warning  'rect' is not defined                      no-undef
+  419:5   warning  'stroke' is not defined                    no-undef
+  420:5   warning  'fill' is not defined                      no-undef
+  421:5   warning  'textSize' is not defined                  no-undef
+  422:5   warning  'text' is not defined                      no-undef
+  423:5   warning  'strokeWeight' is not defined              no-undef
+  424:5   warning  'stroke' is not defined                    no-undef
+  432:7   warning  'Swal' is not defined                      no-undef
+  448:7   warning  'Swal' is not defined                      no-undef
+  466:5   warning  'Swal' is not defined                      no-undef
+  484:5   warning  'Swal' is not defined                      no-undef
+  500:10  warning  'draw' is defined but never used           no-unused-vars
+  501:5   warning  'background' is not defined                no-undef
+  501:16  warning  'color' is not defined                     no-undef
+  502:5   warning  'strokeWeight' is not defined              no-undef
+  503:5   warning  'stroke' is not defined                    no-undef
+  504:5   warning  'fill' is not defined                      no-undef
+  505:5   warning  'square' is not defined                    no-undef
+  510:5   warning  'textSize' is not defined                  no-undef
+  514:5   warning  'textSize' is not defined                  no-undef
+  515:5   warning  'stroke' is not defined                    no-undef
+  516:5   warning  'fill' is not defined                      no-undef
+  519:5   warning  'strokeWeight' is not defined              no-undef
+  520:5   warning  'stroke' is not defined                    no-undef
+  521:23  warning  'cnt1' is not defined                      no-undef
+  522:23  warning  'cnt2' is not defined                      no-undef
+  523:23  warning  'cnt3' is not defined                      no-undef
+  524:24  warning  'cnt4' is not defined                      no-undef
+  525:24  warning  'cnt5' is not defined                      no-undef
+  526:24  warning  'cnt6' is not defined                      no-undef
+  528:9   warning  'cnt1' is not defined                      no-undef
+  529:9   warning  'stroke' is not defined                    no-undef
+  530:9   warning  'fill' is not defined                      no-undef
+  531:9   warning  'textSize' is not defined                  no-undef
+  532:9   warning  'text' is not defined                      no-undef
+  533:9   warning  'text' is not defined                      no-undef
+  534:9   warning  'text' is not defined                      no-undef
+  535:9   warning  'text' is not defined                      no-undef
+  537:16  warning  'cnt2' is not defined                      no-undef
+  539:13  warning  'stroke' is not defined                    no-undef
+  543:17  warning  'line' is not defined                      no-undef
+  545:17  warning  'cnt2' is not defined                      no-undef
+  546:17  warning  'line' is not defined                      no-undef
+  549:16  warning  'cnt4' is not defined                      no-undef
+  550:13  warning  'line' is not defined                      no-undef
+  554:17  warning  'xx' is not defined                        no-undef
+  555:17  warning  'yy' is not defined                        no-undef
+  557:17  warning  'xx' is not defined                        no-undef
+  558:17  warning  'yy' is not defined                        no-undef
+  560:16  warning  'cnt4' is not defined                      no-undef
+  561:13  warning  'line' is not defined                      no-undef
+  561:18  warning  'xx' is not defined                        no-undef
+  561:22  warning  'yy' is not defined                        no-undef
+  564:9   warning  'stroke' is not defined                    no-undef
+  565:9   warning  'fill' is not defined                      no-undef
+  566:9   warning  'textSize' is not defined                  no-undef
+  567:9   warning  'text' is not defined                      no-undef
+  568:13  warning  'stroke' is not defined                    no-undef
+  569:17  warning  'a' is not defined                         no-undef
+  570:17  warning  'a' is not defined                         no-undef
+  570:21  warning  'a' is not defined                         no-undef
+  570:25  warning  'A' is not defined                         no-undef
+  571:17  warning  'b' is not defined                         no-undef
+  571:21  warning  'b' is not defined                         no-undef
+  571:25  warning  'B' is not defined                         no-undef
+  572:17  warning  'line' is not defined                      no-undef
+  572:22  warning  'a' is not defined                         no-undef
+  572:25  warning  'b' is not defined                         no-undef
+  575:17  warning  'a' is not defined                         no-undef
+  576:17  warning  'arr' is not defined                       no-undef
+  582:9   warning  'cnt2' is not defined                      no-undef
+  583:9   warning  'stroke' is not defined                    no-undef
+  584:9   warning  'fill' is not defined                      no-undef
+  585:9   warning  'textSize' is not defined                  no-undef
+  586:9   warning  'text' is not defined                      no-undef
+  587:9   warning  'text' is not defined                      no-undef
+  588:9   warning  'stroke' is not defined                    no-undef
+  591:16  warning  'cnt3' is not defined                      no-undef
+  595:16  warning  'cnt4' is not defined                      no-undef
+  596:13  warning  'line' is not defined                      no-undef
+  600:13  warning  'stroke' is not defined                    no-undef
+  602:27  warning  'A' is not defined                         no-undef
+  603:27  warning  'B' is not defined                         no-undef
+  604:17  warning  'line' is not defined                      no-undef
+  607:17  warning  'arr' is not defined                       no-undef
+  615:9   warning  'cnt3' is not defined                      no-undef
+  616:9   warning  'stroke' is not defined                    no-undef
+  617:9   warning  'fill' is not defined                      no-undef
+  618:9   warning  'textSize' is not defined                  no-undef
+  619:9   warning  'text' is not defined                      no-undef
+  620:9   warning  'stroke' is not defined                    no-undef
+  622:16  warning  'cnt5' is not defined                      no-undef
+  626:16  warning  'cnt4' is not defined                      no-undef
+  627:13  warning  'line' is not defined                      no-undef
+  631:13  warning  'arr' is not defined                       no-undef
+  632:13  warning  'Swal' is not defined                      no-undef
+  645:13  warning  'ack3' is not defined                      no-undef
+  650:8   warning  'ack3' is not defined                      no-undef
+  652:5   warning  'stroke' is not defined                    no-undef
+  653:5   warning  'fill' is not defined                      no-undef
+  654:5   warning  'textSize' is not defined                  no-undef
+  655:5   warning  'text' is not defined                      no-undef
+  659:9   warning  'cnt4' is not defined                      no-undef
+  661:9   warning  'stroke' is not defined                    no-undef
+  662:9   warning  'fill' is not defined                      no-undef
+  663:9   warning  'text' is not defined                      no-undef
+  664:9   warning  'text' is not defined                      no-undef
+  665:9   warning  'text' is not defined                      no-undef
+  666:9   warning  'fill' is not defined                      no-undef
+  667:9   warning  'textSize' is not defined                  no-undef
+  668:9   warning  'text' is not defined                      no-undef
+  669:9   warning  'text' is not defined                      no-undef
+  670:9   warning  'text' is not defined                      no-undef
+  671:9   warning  'text' is not defined                      no-undef
+  673:13  warning  'x3' is not defined                        no-undef
+  674:13  warning  'stroke' is not defined                    no-undef
+  675:13  warning  'x3' is not defined                        no-undef
+  675:18  warning  'x3' is not defined                        no-undef
+  676:13  warning  'y3' is not defined                        no-undef
+  676:18  warning  'y3' is not defined                        no-undef
+  677:17  warning  'x3' is not defined                        no-undef
+  678:17  warning  'line' is not defined                      no-undef
+  678:22  warning  'x3' is not defined                        no-undef
+  678:26  warning  'y3' is not defined                        no-undef
+  679:17  warning  'line' is not defined                      no-undef
+  679:22  warning  'x3' is not defined                        no-undef
+  679:26  warning  'y3' is not defined                        no-undef
+  680:17  warning  'line' is not defined                      no-undef
+  680:22  warning  'x3' is not defined                        no-undef
+  680:26  warning  'y3' is not defined                        no-undef
+  681:17  warning  'line' is not defined                      no-undef
+  681:22  warning  'x3' is not defined                        no-undef
+  681:26  warning  'y3' is not defined                        no-undef
+  684:13  warning  'x3' is not defined                        no-undef
+  685:13  warning  'stroke' is not defined                    no-undef
+  686:13  warning  'fill' is not defined                      no-undef
+  687:13  warning  'textSize' is not defined                  no-undef
+  688:13  warning  'text' is not defined                      no-undef
+  689:13  warning  'text' is not defined                      no-undef
+  690:13  warning  'text' is not defined                      no-undef
+  691:13  warning  'text' is not defined                      no-undef
+  692:13  warning  'stroke' is not defined                    no-undef
+  693:17  warning  'a3' is not defined                        no-undef
+  694:17  warning  'a3' is not defined                        no-undef
+  694:22  warning  'a3' is not defined                        no-undef
+  694:27  warning  'A' is not defined                         no-undef
+  695:17  warning  'b3' is not defined                        no-undef
+  695:22  warning  'b3' is not defined                        no-undef
+  695:27  warning  'B' is not defined                         no-undef
+  697:17  warning  'line' is not defined                      no-undef
+  697:22  warning  'a3' is not defined                        no-undef
+  697:26  warning  'b3' is not defined                        no-undef
+  698:17  warning  'line' is not defined                      no-undef
+  698:22  warning  'a3' is not defined                        no-undef
+  698:26  warning  'b3' is not defined                        no-undef
+  699:17  warning  'line' is not defined                      no-undef
+  699:22  warning  'a3' is not defined                        no-undef
+  699:26  warning  'b3' is not defined                        no-undef
+  700:17  warning  'line' is not defined                      no-undef
+  700:22  warning  'a3' is not defined                        no-undef
+  700:26  warning  'b3' is not defined                        no-undef
+  703:17  warning  'a3' is not defined                        no-undef
+  704:17  warning  'arr' is not defined                       no-undef
+  711:9   warning  'cnt5' is not defined                      no-undef
+  712:9   warning  'stroke' is not defined                    no-undef
+  713:9   warning  'fill' is not defined                      no-undef
+  714:9   warning  'textSize' is not defined                  no-undef
+  715:9   warning  'text' is not defined                      no-undef
+  716:9   warning  'text' is not defined                      no-undef
+  717:9   warning  'text' is not defined                      no-undef
+  718:9   warning  'text' is not defined                      no-undef
+  721:16  warning  'cnt7' is not defined                      no-undef
+  726:13  warning  'stroke' is not defined                    no-undef
+  729:17  warning  'cnt6' is not defined                      no-undef
+  731:21  warning  'line' is not defined                      no-undef
+  733:17  warning  'line' is not defined                      no-undef
+  735:17  warning  'line' is not defined                      no-undef
+  736:17  warning  'line' is not defined                      no-undef
+  741:13  warning  'stroke' is not defined                    no-undef
+  743:27  warning  'A' is not defined                         no-undef
+  744:27  warning  'B' is not defined                         no-undef
+  752:21  warning  'cnt6' is not defined                      no-undef
+  753:21  warning  'line' is not defined                      no-undef
+  754:21  warning  'stroke' is not defined                    no-undef
+  755:13  warning  'fill' is not defined                      no-undef
+  756:13  warning  'textSize' is not defined                  no-undef
+  757:13  warning  'text' is not defined                      no-undef
+  762:17  warning  'arr' is not defined                       no-undef
+  763:17  warning  'Swal' is not defined                      no-undef
+  776:13  warning  'ack7' is not defined                      no-undef
+  780:8   warning  'ack7' is not defined                      no-undef
+  782:9   warning  'stroke' is not defined                    no-undef
+  783:9   warning  'fill' is not defined                      no-undef
+  784:9   warning  'textSize' is not defined                  no-undef
+  785:9   warning  'text' is not defined                      no-undef
+  790:9   warning  'cnt6' is not defined                      no-undef
+  791:9   warning  'stroke' is not defined                    no-undef
+  792:9   warning  'fill' is not defined                      no-undef
+  796:9   warning  'fill' is not defined                      no-undef
+  797:9   warning  'textSize' is not defined                  no-undef
+  798:9   warning  'text' is not defined                      no-undef
+  799:9   warning  'text' is not defined                      no-undef
+  800:9   warning  'text' is not defined                      no-undef
+  801:9   warning  'text' is not defined                      no-undef
+  803:13  warning  'stroke' is not defined                    no-undef
+  807:17  warning  'line' is not defined                      no-undef
+  808:17  warning  'line' is not defined                      no-undef
+  809:17  warning  'line' is not defined                      no-undef
+  810:17  warning  'line' is not defined                      no-undef
+  818:13  warning  'stroke' is not defined                    no-undef
+  819:13  warning  'fill' is not defined                      no-undef
+  820:13  warning  'textSize' is not defined                  no-undef
+  821:13  warning  'text' is not defined                      no-undef
+  822:13  warning  'text' is not defined                      no-undef
+  823:13  warning  'text' is not defined                      no-undef
+  824:13  warning  'text' is not defined                      no-undef
+  825:13  warning  'stroke' is not defined                    no-undef
+  827:27  warning  'A' is not defined                         no-undef
+  828:27  warning  'B' is not defined                         no-undef
+  829:17  warning  'line' is not defined                      no-undef
+  830:17  warning  'line' is not defined                      no-undef
+  831:17  warning  'line' is not defined                      no-undef
+  832:17  warning  'line' is not defined                      no-undef
+  836:17  warning  'arr' is not defined                       no-undef
+  837:17  warning  'cnt7' is not defined                      no-undef
+  838:17  warning  'Swal' is not defined                      no-undef
+  852:17  warning  'button' is not defined                    no-undef
+  857:2   warning  Unnecessary semicolon                      no-extra-semi
+
+/home/runner/work/exp-go-back-narq-iitr/exp-go-back-narq-iitr/experiment/simulation/js/sketch5.js
+    1:11   warning  'xx' is defined but never used             no-unused-vars
+    3:5    warning  'flag' is assigned a value but never used  no-unused-vars
+    6:10   warning  'setup' is defined but never used          no-unused-vars
+    7:16   warning  'createCanvas' is not defined              no-undef
+   13:5    warning  'a' is not defined                         no-undef
+   14:5    warning  'b' is not defined                         no-undef
+   15:5    warning  'A' is not defined                         no-undef
+   16:5    warning  'B' is not defined                         no-undef
+   17:5    warning  'x1' is not defined                        no-undef
+   18:5    warning  'y1' is not defined                        no-undef
+   19:5    warning  'a1' is not defined                        no-undef
+   20:5    warning  'b1' is not defined                        no-undef
+   21:5    warning  'x2' is not defined                        no-undef
+   22:5    warning  'y2' is not defined                        no-undef
+   23:5    warning  'a2' is not defined                        no-undef
+   24:5    warning  'b2' is not defined                        no-undef
+   25:5    warning  'x3' is not defined                        no-undef
+   26:5    warning  'y3' is not defined                        no-undef
+   27:5    warning  'a3' is not defined                        no-undef
+   28:5    warning  'b3' is not defined                        no-undef
+   29:5    warning  'x4' is not defined                        no-undef
+   30:5    warning  'y4' is not defined                        no-undef
+   31:5    warning  'a4' is not defined                        no-undef
+   32:5    warning  'b4' is not defined                        no-undef
+   33:5    warning  'x5' is not defined                        no-undef
+   34:5    warning  'y5' is not defined                        no-undef
+   35:5    warning  'a5' is not defined                        no-undef
+   36:5    warning  'b5' is not defined                        no-undef
+   37:5    warning  'x6' is not defined                        no-undef
+   38:5    warning  'y6' is not defined                        no-undef
+   39:5    warning  'a6' is not defined                        no-undef
+   40:5    warning  'b6' is not defined                        no-undef
+   41:5    warning  'x7' is not defined                        no-undef
+   42:5    warning  'y7' is not defined                        no-undef
+   43:5    warning  'a7' is not defined                        no-undef
+   44:5    warning  'b7' is not defined                        no-undef
+   45:5    warning  'm' is not defined                         no-undef
+   47:5    warning  'textSize' is not defined                  no-undef
+   51:5    warning  'arr' is not defined                       no-undef
+   52:5    warning  'strokeWeight' is not defined              no-undef
+   53:5    warning  'label' is not defined                     no-undef
+   53:13   warning  'createElement' is not defined             no-undef
+   54:5    warning  'label' is not defined                     no-undef
+   55:5    warning  'label' is not defined                     no-undef
+   56:5    warning  'button1' is not defined                   no-undef
+   56:15   warning  'createButton' is not defined              no-undef
+   57:5    warning  'button1' is not defined                   no-undef
+   58:5    warning  'button1' is not defined                   no-undef
+   59:5    warning  'button1' is not defined                   no-undef
+   60:5    warning  'button1' is not defined                   no-undef
+   61:5    warning  'button1' is not defined                   no-undef
+   62:5    warning  'button2' is not defined                   no-undef
+   62:15   warning  'createButton' is not defined              no-undef
+   63:5    warning  'button2' is not defined                   no-undef
+   64:5    warning  'button2' is not defined                   no-undef
+   65:5    warning  'button2' is not defined                   no-undef
+   66:5    warning  'button2' is not defined                   no-undef
+   67:5    warning  'button2' is not defined                   no-undef
+   68:5    warning  'button3' is not defined                   no-undef
+   68:15   warning  'createButton' is not defined              no-undef
+   69:5    warning  'button3' is not defined                   no-undef
+   70:5    warning  'button3' is not defined                   no-undef
+   71:5    warning  'button3' is not defined                   no-undef
+   72:5    warning  'button3' is not defined                   no-undef
+   73:5    warning  'button3' is not defined                   no-undef
+   74:5    warning  'button4' is not defined                   no-undef
+   74:15   warning  'createButton' is not defined              no-undef
+   75:5    warning  'button4' is not defined                   no-undef
+   76:5    warning  'button4' is not defined                   no-undef
+   77:5    warning  'button4' is not defined                   no-undef
+   78:5    warning  'button4' is not defined                   no-undef
+   79:5    warning  'button4' is not defined                   no-undef
+   80:5    warning  'button5' is not defined                   no-undef
+   80:15   warning  'createButton' is not defined              no-undef
+   81:5    warning  'button5' is not defined                   no-undef
+   82:5    warning  'button5' is not defined                   no-undef
+   83:5    warning  'button5' is not defined                   no-undef
+   84:5    warning  'button5' is not defined                   no-undef
+   85:5    warning  'button5' is not defined                   no-undef
+   86:5    warning  'button6' is not defined                   no-undef
+   86:15   warning  'createButton' is not defined              no-undef
+   87:5    warning  'button6' is not defined                   no-undef
+   88:5    warning  'button6' is not defined                   no-undef
+   89:5    warning  'button6' is not defined                   no-undef
+   90:5    warning  'button6' is not defined                   no-undef
+   91:5    warning  'button6' is not defined                   no-undef
+   92:5    warning  'button7' is not defined                   no-undef
+   92:15   warning  'createButton' is not defined              no-undef
+   93:5    warning  'button7' is not defined                   no-undef
+   94:5    warning  'button7' is not defined                   no-undef
+   95:5    warning  'button7' is not defined                   no-undef
+   96:5    warning  'button7' is not defined                   no-undef
+   97:5    warning  'button7' is not defined                   no-undef
+   98:5    warning  'button8' is not defined                   no-undef
+   98:15   warning  'createButton' is not defined              no-undef
+   99:5    warning  'button8' is not defined                   no-undef
+  100:5    warning  'button8' is not defined                   no-undef
+  101:5    warning  'button8' is not defined                   no-undef
+  102:5    warning  'button8' is not defined                   no-undef
+  103:5    warning  'button8' is not defined                   no-undef
+  104:5    warning  'button9' is not defined                   no-undef
+  104:15   warning  'createButton' is not defined              no-undef
+  105:5    warning  'button9' is not defined                   no-undef
+  106:5    warning  'button9' is not defined                   no-undef
+  107:5    warning  'button9' is not defined                   no-undef
+  108:5    warning  'button9' is not defined                   no-undef
+  109:5    warning  'button9' is not defined                   no-undef
+  110:5    warning  'button10' is not defined                  no-undef
+  110:16   warning  'createButton' is not defined              no-undef
+  111:5    warning  'button10' is not defined                  no-undef
+  112:5    warning  'button10' is not defined                  no-undef
+  113:5    warning  'button10' is not defined                  no-undef
+  114:5    warning  'button10' is not defined                  no-undef
+  115:5    warning  'button10' is not defined                  no-undef
+  117:5    warning  'button1' is not defined                   no-undef
+  118:5    warning  'button2' is not defined                   no-undef
+  119:5    warning  'button3' is not defined                   no-undef
+  120:5    warning  'button4' is not defined                   no-undef
+  121:5    warning  'button5' is not defined                   no-undef
+  122:5    warning  'button6' is not defined                   no-undef
+  123:5    warning  'button7' is not defined                   no-undef
+  124:5    warning  'button8' is not defined                   no-undef
+  125:5    warning  'button9' is not defined                   no-undef
+  126:5    warning  'button10' is not defined                  no-undef
+  128:11   warning  'createInput' is not defined               no-undef
+  132:5    warning  'button' is not defined                    no-undef
+  132:14   warning  'createButton' is not defined              no-undef
+  133:5    warning  'button' is not defined                    no-undef
+  134:5    warning  'button' is not defined                    no-undef
+  135:5    warning  'button' is not defined                    no-undef
+  136:1    warning  'button' is not defined                    no-undef
+  138:1    warning  'button11' is not defined                  no-undef
+  138:12   warning  'createButton' is not defined              no-undef
+  139:1    warning  'button11' is not defined                  no-undef
+  140:1    warning  'button11' is not defined                  no-undef
+  141:1    warning  'button11' is not defined                  no-undef
+  142:1    warning  'button11' is not defined                  no-undef
+  144:2    warning  Unnecessary semicolon                      no-extra-semi
+  152:5    warning  'Swal' is not defined                      no-undef
+  168:5    warning  'button1' is not defined                   no-undef
+  169:5    warning  'button2' is not defined                   no-undef
+  170:5    warning  'button3' is not defined                   no-undef
+  171:5    warning  'button4' is not defined                   no-undef
+  172:5    warning  'button5' is not defined                   no-undef
+  173:5    warning  'button6' is not defined                   no-undef
+  174:5    warning  'button7' is not defined                   no-undef
+  175:5    warning  'button8' is not defined                   no-undef
+  176:5    warning  'button9' is not defined                   no-undef
+  177:5    warning  'button10' is not defined                  no-undef
+  180:9    warning  'button1' is not defined                   no-undef
+  181:9    warning  'button2' is not defined                   no-undef
+  182:9    warning  'button3' is not defined                   no-undef
+  183:9    warning  'button4' is not defined                   no-undef
+  184:9    warning  'button5' is not defined                   no-undef
+  185:9    warning  'button6' is not defined                   no-undef
+  186:9    warning  'button7' is not defined                   no-undef
+  187:9    warning  'button8' is not defined                   no-undef
+  188:9    warning  'button9' is not defined                   no-undef
+  189:9    warning  'button10' is not defined                  no-undef
+  195:5    warning  'button1' is not defined                   no-undef
+  196:5    warning  'button2' is not defined                   no-undef
+  197:5    warning  'button3' is not defined                   no-undef
+  198:5    warning  'button4' is not defined                   no-undef
+  199:5    warning  'button5' is not defined                   no-undef
+  200:5    warning  'button6' is not defined                   no-undef
+  201:5    warning  'button7' is not defined                   no-undef
+  202:5    warning  'button8' is not defined                   no-undef
+  203:5    warning  'button9' is not defined                   no-undef
+  204:5    warning  'button10' is not defined                  no-undef
+  211:1    warning  'count' is not defined                     no-undef
+  212:1    warning  'c3' is not defined                        no-undef
+  213:1    warning  'c4' is not defined                        no-undef
+  214:1    warning  'c5' is not defined                        no-undef
+  218:11   warning  'arr' is not defined                       no-undef
+  220:9    warning  'button1' is not defined                   no-undef
+  222:16   warning  'arr' is not defined                       no-undef
+  222:29   warning  Empty block statement                      no-empty
+  223:9    warning  'button1' is not defined                   no-undef
+  224:9    warning  'count' is not defined                     no-undef
+  225:9    warning  'arr' is not defined                       no-undef
+  226:14   warning  'count' is not defined                     no-undef
+  226:30   warning  'count' is not defined                     no-undef
+  226:46   warning  'count' is not defined                     no-undef
+  226:62   warning  'count' is not defined                     no-undef
+  226:79   warning  'count' is not defined                     no-undef
+  226:96   warning  'count' is not defined                     no-undef
+  226:113  warning  'count' is not defined                     no-undef
+  226:130  warning  'count' is not defined                     no-undef
+  231:2    warning  Unnecessary semicolon                      no-extra-semi
+  235:11   warning  'arr' is not defined                       no-undef
+  237:9    warning  'button2' is not defined                   no-undef
+  239:16   warning  'arr' is not defined                       no-undef
+  239:29   warning  Empty block statement                      no-empty
+  240:9    warning  'button2' is not defined                   no-undef
+  241:9    warning  'count' is not defined                     no-undef
+  242:9    warning  'arr' is not defined                       no-undef
+  243:14   warning  'count' is not defined                     no-undef
+  243:30   warning  'count' is not defined                     no-undef
+  243:46   warning  'count' is not defined                     no-undef
+  243:62   warning  'count' is not defined                     no-undef
+  243:79   warning  'count' is not defined                     no-undef
+  243:96   warning  'count' is not defined                     no-undef
+  243:113  warning  'count' is not defined                     no-undef
+  243:130  warning  'count' is not defined                     no-undef
+  247:2    warning  Unnecessary semicolon                      no-extra-semi
+  250:11   warning  'arr' is not defined                       no-undef
+  252:9    warning  'button3' is not defined                   no-undef
+  254:16   warning  'arr' is not defined                       no-undef
+  254:29   warning  Empty block statement                      no-empty
+  255:9    warning  'button3' is not defined                   no-undef
+  256:9    warning  'count' is not defined                     no-undef
+  257:9    warning  'arr' is not defined                       no-undef
+  258:14   warning  'count' is not defined                     no-undef
+  258:30   warning  'count' is not defined                     no-undef
+  258:46   warning  'count' is not defined                     no-undef
+  258:62   warning  'count' is not defined                     no-undef
+  258:79   warning  'count' is not defined                     no-undef
+  258:96   warning  'count' is not defined                     no-undef
+  258:113  warning  'count' is not defined                     no-undef
+  258:130  warning  'count' is not defined                     no-undef
+  262:2    warning  Unnecessary semicolon                      no-extra-semi
+  265:11   warning  'arr' is not defined                       no-undef
+  267:9    warning  'button4' is not defined                   no-undef
+  269:16   warning  'arr' is not defined                       no-undef
+  269:29   warning  Empty block statement                      no-empty
+  270:9    warning  'button4' is not defined                   no-undef
+  271:9    warning  'count' is not defined                     no-undef
+  272:9    warning  'arr' is not defined                       no-undef
+  273:14   warning  'count' is not defined                     no-undef
+  273:30   warning  'count' is not defined                     no-undef
+  273:46   warning  'count' is not defined                     no-undef
+  273:62   warning  'count' is not defined                     no-undef
+  273:79   warning  'count' is not defined                     no-undef
+  273:96   warning  'count' is not defined                     no-undef
+  273:113  warning  'count' is not defined                     no-undef
+  273:130  warning  'count' is not defined                     no-undef
+  277:2    warning  Unnecessary semicolon                      no-extra-semi
+  280:11   warning  'arr' is not defined                       no-undef
+  282:9    warning  'button5' is not defined                   no-undef
+  284:16   warning  'arr' is not defined                       no-undef
+  284:29   warning  Empty block statement                      no-empty
+  285:9    warning  'button5' is not defined                   no-undef
+  286:9    warning  'count' is not defined                     no-undef
+  287:9    warning  'arr' is not defined                       no-undef
+  288:14   warning  'count' is not defined                     no-undef
+  288:30   warning  'count' is not defined                     no-undef
+  288:46   warning  'count' is not defined                     no-undef
+  288:62   warning  'count' is not defined                     no-undef
+  288:79   warning  'count' is not defined                     no-undef
+  288:96   warning  'count' is not defined                     no-undef
+  288:113  warning  'count' is not defined                     no-undef
+  288:130  warning  'count' is not defined                     no-undef
+  293:2    warning  Unnecessary semicolon                      no-extra-semi
+  296:11   warning  'arr' is not defined                       no-undef
+  298:9    warning  'button6' is not defined                   no-undef
+  300:16   warning  'arr' is not defined                       no-undef
+  300:29   warning  Empty block statement                      no-empty
+  301:9    warning  'button6' is not defined                   no-undef
+  302:9    warning  'count' is not defined                     no-undef
+  303:9    warning  'arr' is not defined                       no-undef
+  304:14   warning  'count' is not defined                     no-undef
+  304:30   warning  'count' is not defined                     no-undef
+  304:46   warning  'count' is not defined                     no-undef
+  304:62   warning  'count' is not defined                     no-undef
+  304:79   warning  'count' is not defined                     no-undef
+  304:96   warning  'count' is not defined                     no-undef
+  304:113  warning  'count' is not defined                     no-undef
+  304:130  warning  'count' is not defined                     no-undef
+  310:2    warning  Unnecessary semicolon                      no-extra-semi
+  313:11   warning  'arr' is not defined                       no-undef
+  315:9    warning  'button7' is not defined                   no-undef
+  317:16   warning  'arr' is not defined                       no-undef
+  317:29   warning  Empty block statement                      no-empty
+  318:9    warning  'button7' is not defined                   no-undef
+  319:9    warning  'count' is not defined                     no-undef
+  320:9    warning  'arr' is not defined                       no-undef
+  321:14   warning  'count' is not defined                     no-undef
+  321:30   warning  'count' is not defined                     no-undef
+  321:46   warning  'count' is not defined                     no-undef
+  321:62   warning  'count' is not defined                     no-undef
+  321:79   warning  'count' is not defined                     no-undef
+  321:96   warning  'count' is not defined                     no-undef
+  321:113  warning  'count' is not defined                     no-undef
+  321:130  warning  'count' is not defined                     no-undef
+  327:2    warning  Unnecessary semicolon                      no-extra-semi
+  330:11   warning  'arr' is not defined                       no-undef
+  332:9    warning  'button8' is not defined                   no-undef
+  334:16   warning  'arr' is not defined                       no-undef
+  334:29   warning  Empty block statement                      no-empty
+  335:9    warning  'button8' is not defined                   no-undef
+  336:9    warning  'count' is not defined                     no-undef
+  337:9    warning  'arr' is not defined                       no-undef
+  338:14   warning  'count' is not defined                     no-undef
+  338:30   warning  'count' is not defined                     no-undef
+  338:46   warning  'count' is not defined                     no-undef
+  338:62   warning  'count' is not defined                     no-undef
+  338:79   warning  'count' is not defined                     no-undef
+  338:96   warning  'count' is not defined                     no-undef
+  338:113  warning  'count' is not defined                     no-undef
+  338:130  warning  'count' is not defined                     no-undef
+  343:2    warning  Unnecessary semicolon                      no-extra-semi
+  346:11   warning  'arr' is not defined                       no-undef
+  348:9    warning  'button9' is not defined                   no-undef
+  350:16   warning  'arr' is not defined                       no-undef
+  350:29   warning  Empty block statement                      no-empty
+  351:9    warning  'button9' is not defined                   no-undef
+  352:9    warning  'count' is not defined                     no-undef
+  353:9    warning  'arr' is not defined                       no-undef
+  354:14   warning  'count' is not defined                     no-undef
+  354:30   warning  'count' is not defined                     no-undef
+  354:46   warning  'count' is not defined                     no-undef
+  354:62   warning  'count' is not defined                     no-undef
+  354:79   warning  'count' is not defined                     no-undef
+  354:96   warning  'count' is not defined                     no-undef
+  354:113  warning  'count' is not defined                     no-undef
+  354:130  warning  'count' is not defined                     no-undef
+  359:2    warning  Unnecessary semicolon                      no-extra-semi
+  363:11   warning  'arr' is not defined                       no-undef
+  365:9    warning  'button10' is not defined                  no-undef
+  367:16   warning  'arr' is not defined                       no-undef
+  367:29   warning  Empty block statement                      no-empty
+  368:9    warning  'button10' is not defined                  no-undef
+  369:9    warning  'count' is not defined                     no-undef
+  370:9    warning  'arr' is not defined                       no-undef
+  371:14   warning  'count' is not defined                     no-undef
+  371:30   warning  'count' is not defined                     no-undef
+  371:46   warning  'count' is not defined                     no-undef
+  371:62   warning  'count' is not defined                     no-undef
+  371:79   warning  'count' is not defined                     no-undef
+  371:96   warning  'count' is not defined                     no-undef
+  371:113  warning  'count' is not defined                     no-undef
+  371:130  warning  'count' is not defined                     no-undef
+  376:2    warning  Unnecessary semicolon                      no-extra-semi
+  379:1    warning  'cnt1' is not defined                      no-undef
+  380:1    warning  'cnt2' is not defined                      no-undef
+  381:1    warning  'cnt3' is not defined                      no-undef
+  382:1    warning  'cnt4' is not defined                      no-undef
+  383:1    warning  'cnt5' is not defined                      no-undef
+  384:1    warning  'cnt6' is not defined                      no-undef
+  385:1    warning  'cnt7' is not defined                      no-undef
+  386:1    warning  'cnt8' is not defined                      no-undef
+  387:1    warning  'cnt9' is not defined                      no-undef
+  388:1    warning  'c' is not defined                         no-undef
+  389:1    warning  'ack3' is not defined                      no-undef
+  390:1    warning  'ack6' is not defined                      no-undef
+  393:5    warning  'stroke' is not defined                    no-undef
+  394:5    warning  'fill' is not defined                      no-undef
+  395:5    warning  'square' is not defined                    no-undef
+  400:5    warning  'stroke' is not defined                    no-undef
+  401:5    warning  'fill' is not defined                      no-undef
+  402:5    warning  'square' is not defined                    no-undef
+  407:5    warning  'strokeWeight' is not defined              no-undef
+  408:5    warning  'stroke' is not defined                    no-undef
+  409:5    warning  'line' is not defined                      no-undef
+  410:5    warning  'line' is not defined                      no-undef
+  414:5    warning  'strokeWeight' is not defined              no-undef
+  415:5    warning  'fill' is not defined                      no-undef
+  416:5    warning  'textSize' is not defined                  no-undef
+  417:5    warning  'text' is not defined                      no-undef
+  418:5    warning  'text' is not defined                      no-undef
+  419:5    warning  'strokeWeight' is not defined              no-undef
+  420:5    warning  'textSize' is not defined                  no-undef
+  421:5    warning  'textSize' is not defined                  no-undef
+  422:5    warning  'text' is not defined                      no-undef
+  423:5    warning  'text' is not defined                      no-undef
+  424:5    warning  'text' is not defined                      no-undef
+  425:5    warning  'text' is not defined                      no-undef
+  426:5    warning  'fill' is not defined                      no-undef
+  427:5    warning  'text' is not defined                      no-undef
+  432:5    warning  'strokeWeight' is not defined              no-undef
+  433:5    warning  'stroke' is not defined                    no-undef
+  434:5    warning  'fill' is not defined                      no-undef
+  435:5    warning  'rect' is not defined                      no-undef
+  436:5    warning  'stroke' is not defined                    no-undef
+  437:5    warning  'fill' is not defined                      no-undef
+  438:5    warning  'textSize' is not defined                  no-undef
+  439:5    warning  'text' is not defined                      no-undef
+  440:5    warning  'strokeWeight' is not defined              no-undef
+  441:5    warning  'stroke' is not defined                    no-undef
+  449:7    warning  'Swal' is not defined                      no-undef
+  465:7    warning  'Swal' is not defined                      no-undef
+  483:5    warning  'Swal' is not defined                      no-undef
+  502:5    warning  'Swal' is not defined                      no-undef
+  518:10   warning  'draw' is defined but never used           no-unused-vars
+  519:5    warning  'background' is not defined                no-undef
+  519:16   warning  'color' is not defined                     no-undef
+  520:5    warning  'strokeWeight' is not defined              no-undef
+  521:5    warning  'stroke' is not defined                    no-undef
+  522:5    warning  'fill' is not defined                      no-undef
+  523:5    warning  'square' is not defined                    no-undef
+  528:5    warning  'textSize' is not defined                  no-undef
+  532:5    warning  'textSize' is not defined                  no-undef
+  533:5    warning  'stroke' is not defined                    no-undef
+  534:5    warning  'fill' is not defined                      no-undef
+  537:5    warning  'strokeWeight' is not defined              no-undef
+  538:5    warning  'stroke' is not defined                    no-undef
+  540:9    warning  'count' is not defined                     no-undef
+  541:9    warning  'cnt1' is not defined                      no-undef
+  543:9    warning  'count' is not defined                     no-undef
+  544:9    warning  'cnt2' is not defined                      no-undef
+  546:9    warning  'count' is not defined                     no-undef
+  547:9    warning  'cnt3' is not defined                      no-undef
+  550:9    warning  'count' is not defined                     no-undef
+  551:9    warning  'cnt4' is not defined                      no-undef
+  554:9    warning  'count' is not defined                     no-undef
+  555:9    warning  'cnt5' is not defined                      no-undef
+  558:9    warning  'count' is not defined                     no-undef
+  559:9    warning  'cnt6' is not defined                      no-undef
+  562:9    warning  'count' is not defined                     no-undef
+  563:9    warning  'cnt7' is not defined                      no-undef
+  566:9    warning  'count' is not defined                     no-undef
+  567:9    warning  'cnt8' is not defined                      no-undef
+  571:9    warning  'cnt1' is not defined                      no-undef
+  572:9    warning  'stroke' is not defined                    no-undef
+  573:9    warning  'fill' is not defined                      no-undef
+  574:5    warning  'textSize' is not defined                  no-undef
+  575:5    warning  'text' is not defined                      no-undef
+  576:5    warning  'text' is not defined                      no-undef
+  577:5    warning  'text' is not defined                      no-undef
+  578:5    warning  'text' is not defined                      no-undef
+  579:5    warning  'text' is not defined                      no-undef
+  581:16   warning  'cnt2' is not defined                      no-undef
+  583:13   warning  'stroke' is not defined                    no-undef
+  587:17   warning  'line' is not defined                      no-undef
+  589:17   warning  'cnt2' is not defined                      no-undef
+  590:17   warning  'line' is not defined                      no-undef
+  592:17   warning  'cnt3' is not defined                      no-undef
+  593:17   warning  'line' is not defined                      no-undef
+  595:17   warning  'cnt4' is not defined                      no-undef
+  596:17   warning  'line' is not defined                      no-undef
+  597:17   warning  'line' is not defined                      no-undef
+  601:13   warning  'stroke' is not defined                    no-undef
+  602:13   warning  'fill' is not defined                      no-undef
+  603:13   warning  'textSize' is not defined                  no-undef
+  604:13   warning  'text' is not defined                      no-undef
+  605:13   warning  'stroke' is not defined                    no-undef
+  606:17   warning  'a' is not defined                         no-undef
+  607:17   warning  'a' is not defined                         no-undef
+  607:21   warning  'a' is not defined                         no-undef
+  607:25   warning  'A' is not defined                         no-undef
+  608:17   warning  'b' is not defined                         no-undef
+  608:21   warning  'b' is not defined                         no-undef
+  608:25   warning  'B' is not defined                         no-undef
+  609:17   warning  'line' is not defined                      no-undef
+  609:22   warning  'a' is not defined                         no-undef
+  609:25   warning  'b' is not defined                         no-undef
+  612:17   warning  'a' is not defined                         no-undef
+  613:17   warning  'arr' is not defined                       no-undef
+  621:9    warning  'cnt2' is not defined                      no-undef
+  622:9    warning  'stroke' is not defined                    no-undef
+  623:9    warning  'fill' is not defined                      no-undef
+  624:9    warning  'textSize' is not defined                  no-undef
+  625:9    warning  'text' is not defined                      no-undef
+  626:9    warning  'text' is not defined                      no-undef
+  627:9    warning  'stroke' is not defined                    no-undef
+  628:13   warning  'x1' is not defined                        no-undef
+  629:16   warning  'cnt3' is not defined                      no-undef
+  631:13   warning  'x1' is not defined                        no-undef
+  631:18   warning  'x1' is not defined                        no-undef
+  632:13   warning  'y1' is not defined                        no-undef
+  632:18   warning  'y1' is not defined                        no-undef
+  633:17   warning  'cnt4' is not defined                      no-undef
+  634:17   warning  'line' is not defined                      no-undef
+  634:22   warning  'x1' is not defined                        no-undef
+  634:26   warning  'y1' is not defined                        no-undef
+  637:13   warning  'x1' is not defined                        no-undef
+  638:13   warning  'stroke' is not defined                    no-undef
+  639:17   warning  'a1' is not defined                        no-undef
+  640:17   warning  'a1' is not defined                        no-undef
+  640:22   warning  'a1' is not defined                        no-undef
+  640:27   warning  'A' is not defined                         no-undef
+  641:17   warning  'b1' is not defined                        no-undef
+  641:22   warning  'b1' is not defined                        no-undef
+  641:27   warning  'B' is not defined                         no-undef
+  643:21   warning  'line' is not defined                      no-undef
+  643:26   warning  'a1' is not defined                        no-undef
+  643:30   warning  'b1' is not defined                        no-undef
+  645:17   warning  'a1' is not defined                        no-undef
+  646:17   warning  'arr' is not defined                       no-undef
+  652:13   warning  'cnt3' is not defined                      no-undef
+  653:13   warning  'stroke' is not defined                    no-undef
+  654:13   warning  'fill' is not defined                      no-undef
+  655:13   warning  'textSize' is not defined                  no-undef
+  656:13   warning  'text' is not defined                      no-undef
+  658:13   warning  'stroke' is not defined                    no-undef
+  659:17   warning  'x2' is not defined                        no-undef
+  660:20   warning  'cnt5' is not defined                      no-undef
+  662:17   warning  'x2' is not defined                        no-undef
+  662:22   warning  'x2' is not defined                        no-undef
+  663:17   warning  'y2' is not defined                        no-undef
+  663:22   warning  'y2' is not defined                        no-undef
+  664:21   warning  'cnt4' is not defined                      no-undef
+  665:21   warning  'line' is not defined                      no-undef
+  665:26   warning  'x2' is not defined                        no-undef
+  665:30   warning  'y2' is not defined                        no-undef
+  668:17   warning  'x2' is not defined                        no-undef
+  669:17   warning  'stroke' is not defined                    no-undef
+  670:21   warning  'a2' is not defined                        no-undef
+  671:21   warning  'a2' is not defined                        no-undef
+  671:26   warning  'a2' is not defined                        no-undef
+  671:31   warning  'A' is not defined                         no-undef
+  672:21   warning  'b2' is not defined                        no-undef
+  672:26   warning  'b2' is not defined                        no-undef
+  672:31   warning  'B' is not defined                         no-undef
+  674:21   warning  'x2' is not defined                        no-undef
+  675:21   warning  'line' is not defined                      no-undef
+  675:26   warning  'a2' is not defined                        no-undef
+  675:30   warning  'b2' is not defined                        no-undef
+  676:21   warning  'stroke' is not defined                    no-undef
+  677:21   warning  'fill' is not defined                      no-undef
+  678:21   warning  'textSize' is not defined                  no-undef
+  679:21   warning  'text' is not defined                      no-undef
+  681:21   warning  'x2' is not defined                        no-undef
+  682:21   warning  'arr' is not defined                       no-undef
+  683:21   warning  'Swal' is not defined                      no-undef
+  696:20   warning  'ack3' is not defined                      no-undef
+  702:12   warning  'ack3' is not defined                      no-undef
+  705:11   warning  'stroke' is not defined                    no-undef
+  706:11   warning  'fill' is not defined                      no-undef
+  707:11   warning  'textSize' is not defined                  no-undef
+  708:11   warning  'text' is not defined                      no-undef
+  709:13   warning  'textSize' is not defined                  no-undef
+  713:13   warning  'cnt4' is not defined                      no-undef
+  714:13   warning  'stroke' is not defined                    no-undef
+  715:9    warning  'fill' is not defined                      no-undef
+  716:5    warning  'textSize' is not defined                  no-undef
+  717:5    warning  'text' is not defined                      no-undef
+  718:5    warning  'text' is not defined                      no-undef
+  719:5    warning  'text' is not defined                      no-undef
+  720:5    warning  'text' is not defined                      no-undef
+  721:5    warning  'text' is not defined                      no-undef
+  722:5    warning  'fill' is not defined                      no-undef
+  727:17   warning  'x3' is not defined                        no-undef
+  728:17   warning  'stroke' is not defined                    no-undef
+  729:17   warning  'x3' is not defined                        no-undef
+  729:22   warning  'x3' is not defined                        no-undef
+  730:17   warning  'y3' is not defined                        no-undef
+  730:22   warning  'y3' is not defined                        no-undef
+  731:21   warning  'cnt8' is not defined                      no-undef
+  732:25   warning  'x3' is not defined                        no-undef
+  733:25   warning  'line' is not defined                      no-undef
+  733:30   warning  'x3' is not defined                        no-undef
+  733:34   warning  'y3' is not defined                        no-undef
+  735:25   warning  'cnt5' is not defined                      no-undef
+  736:25   warning  'line' is not defined                      no-undef
+  736:30   warning  'x3' is not defined                        no-undef
+  736:34   warning  'y3' is not defined                        no-undef
+  738:25   warning  'cnt6' is not defined                      no-undef
+  739:25   warning  'line' is not defined                      no-undef
+  739:30   warning  'x3' is not defined                        no-undef
+  739:34   warning  'y3' is not defined                        no-undef
+  742:25   warning  'cnt7' is not defined                      no-undef
+  743:25   warning  'line' is not defined                      no-undef
+  743:30   warning  'x3' is not defined                        no-undef
+  743:34   warning  'y3' is not defined                        no-undef
+  745:24   warning  'cnt8' is not defined                      no-undef
+  747:25   warning  'line' is not defined                      no-undef
+  747:30   warning  'x3' is not defined                        no-undef
+  747:34   warning  'y3' is not defined                        no-undef
+  750:20   warning  'x3' is not defined                        no-undef
+  757:13   warning  'x3' is not defined                        no-undef
+  758:13   warning  'stroke' is not defined                    no-undef
+  759:13   warning  'fill' is not defined                      no-undef
+  760:13   warning  'textSize' is not defined                  no-undef
+  761:13   warning  'text' is not defined                      no-undef
+  762:13   warning  'stroke' is not defined                    no-undef
+  763:17   warning  'a3' is not defined                        no-undef
+  764:17   warning  'a3' is not defined                        no-undef
+  764:22   warning  'a3' is not defined                        no-undef
+  764:27   warning  'A' is not defined                         no-undef
+  765:17   warning  'b3' is not defined                        no-undef
+  765:22   warning  'b3' is not defined                        no-undef
+  765:27   warning  'B' is not defined                         no-undef
+  766:17   warning  'line' is not defined                      no-undef
+  766:22   warning  'a3' is not defined                        no-undef
+  766:26   warning  'b3' is not defined                        no-undef
+  768:17   warning  'a3' is not defined                        no-undef
+  769:17   warning  'arr' is not defined                       no-undef
+  776:9    warning  'cnt5' is not defined                      no-undef
+  777:9    warning  'stroke' is not defined                    no-undef
+  778:9    warning  'fill' is not defined                      no-undef
+  779:5    warning  'textSize' is not defined                  no-undef
+  780:5    warning  'text' is not defined                      no-undef
+  781:5    warning  'text' is not defined                      no-undef
+  782:9    warning  'stroke' is not defined                    no-undef
+  783:13   warning  'x4' is not defined                        no-undef
+  784:16   warning  'cnt6' is not defined                      no-undef
+  786:13   warning  'stroke' is not defined                    no-undef
+  787:17   warning  'x4' is not defined                        no-undef
+  788:17   warning  'x4' is not defined                        no-undef
+  788:22   warning  'x4' is not defined                        no-undef
+  789:17   warning  'y4' is not defined                        no-undef
+  789:22   warning  'y4' is not defined                        no-undef
+  790:21   warning  'cnt8' is not defined                      no-undef
+  791:21   warning  'line' is not defined                      no-undef
+  791:26   warning  'x4' is not defined                        no-undef
+  791:30   warning  'y4' is not defined                        no-undef
+  794:13   warning  'x4' is not defined                        no-undef
+  795:13   warning  'stroke' is not defined                    no-undef
+  796:17   warning  'a4' is not defined                        no-undef
+  797:17   warning  'a4' is not defined                        no-undef
+  797:22   warning  'a4' is not defined                        no-undef
+  797:27   warning  'A' is not defined                         no-undef
+  798:17   warning  'b4' is not defined                        no-undef
+  798:22   warning  'b4' is not defined                        no-undef
+  798:27   warning  'B' is not defined                         no-undef
+  799:21   warning  'cnt7' is not defined                      no-undef
+  799:34   warning  'line' is not defined                      no-undef
+  799:39   warning  'a4' is not defined                        no-undef
+  799:43   warning  'b4' is not defined                        no-undef
+  801:17   warning  'a4' is not defined                        no-undef
+  802:17   warning  'arr' is not defined                       no-undef
+  810:9    warning  'cnt6' is not defined                      no-undef
+  811:9    warning  'stroke' is not defined                    no-undef
+  812:9    warning  'fill' is not defined                      no-undef
+  813:5    warning  'textSize' is not defined                  no-undef
+  814:5    warning  'text' is not defined                      no-undef
+  815:5    warning  'text' is not defined                      no-undef
+  816:9    warning  'stroke' is not defined                    no-undef
+  817:13   warning  'x5' is not defined                        no-undef
+  818:16   warning  'cnt7' is not defined                      no-undef
+  820:13   warning  'stroke' is not defined                    no-undef
+  821:17   warning  'x5' is not defined                        no-undef
+  822:17   warning  'x5' is not defined                        no-undef
+  822:22   warning  'x5' is not defined                        no-undef
+  823:17   warning  'y5' is not defined                        no-undef
+  823:22   warning  'y5' is not defined                        no-undef
+  824:21   warning  'cnt8' is not defined                      no-undef
+  825:21   warning  'line' is not defined                      no-undef
+  825:26   warning  'x5' is not defined                        no-undef
+  825:30   warning  'y5' is not defined                        no-undef
+  828:13   warning  'x5' is not defined                        no-undef
+  829:13   warning  'stroke' is not defined                    no-undef
+  830:17   warning  'a5' is not defined                        no-undef
+  831:17   warning  'a5' is not defined                        no-undef
+  831:22   warning  'a5' is not defined                        no-undef
+  831:27   warning  'A' is not defined                         no-undef
+  832:17   warning  'b5' is not defined                        no-undef
+  832:22   warning  'b5' is not defined                        no-undef
+  832:27   warning  'B' is not defined                         no-undef
+  833:21   warning  'cnt8' is not defined                      no-undef
+  833:34   warning  'line' is not defined                      no-undef
+  833:39   warning  'a5' is not defined                        no-undef
+  833:43   warning  'b5' is not defined                        no-undef
+  835:17   warning  'a5' is not defined                        no-undef
+  836:17   warning  'arr' is not defined                       no-undef
+  844:9    warning  'cnt7' is not defined                      no-undef
+  845:9    warning  'stroke' is not defined                    no-undef
+  846:9    warning  'fill' is not defined                      no-undef
+  847:5    warning  'textSize' is not defined                  no-undef
+  848:5    warning  'text' is not defined                      no-undef
+  850:9    warning  'stroke' is not defined                    no-undef
+  851:13   warning  'x6' is not defined                        no-undef
+  852:16   warning  'cnt9' is not defined                      no-undef
+  854:13   warning  'stroke' is not defined                    no-undef
+  855:17   warning  'x6' is not defined                        no-undef
+  856:17   warning  'x6' is not defined                        no-undef
+  856:22   warning  'x6' is not defined                        no-undef
+  857:17   warning  'y6' is not defined                        no-undef
+  857:22   warning  'y6' is not defined                        no-undef
+  858:21   warning  'cnt8' is not defined                      no-undef
+  859:21   warning  'line' is not defined                      no-undef
+  859:26   warning  'x6' is not defined                        no-undef
+  859:30   warning  'y6' is not defined                        no-undef
+  862:13   warning  'x6' is not defined                        no-undef
+  863:13   warning  'stroke' is not defined                    no-undef
+  864:17   warning  'a6' is not defined                        no-undef
+  865:17   warning  'a6' is not defined                        no-undef
+  865:22   warning  'a6' is not defined                        no-undef
+  865:27   warning  'A' is not defined                         no-undef
+  866:17   warning  'b6' is not defined                        no-undef
+  866:22   warning  'b6' is not defined                        no-undef
+  866:27   warning  'B' is not defined                         no-undef
+  867:21   warning  'x6' is not defined                        no-undef
+  868:18   warning  'line' is not defined                      no-undef
+  868:23   warning  'a6' is not defined                        no-undef
+  868:27   warning  'b6' is not defined                        no-undef
+  869:18   warning  'stroke' is not defined                    no-undef
+  870:18   warning  'fill' is not defined                      no-undef
+  871:18   warning  'textSize' is not defined                  no-undef
+  872:18   warning  'text' is not defined                      no-undef
+  874:17   warning  'x6' is not defined                        no-undef
+  875:17   warning  'arr' is not defined                       no-undef
+  876:17   warning  'Swal' is not defined                      no-undef
+  889:17   warning  'ack6' is not defined                      no-undef
+  895:4    warning  'ack6' is not defined                      no-undef
+  896:2    warning  'textSize' is not defined                  no-undef
+  897:5    warning  'stroke' is not defined                    no-undef
+  898:5    warning  'fill' is not defined                      no-undef
+  899:5    warning  'text' is not defined                      no-undef
+  903:9    warning  'cnt8' is not defined                      no-undef
+  904:9    warning  'stroke' is not defined                    no-undef
+  905:9    warning  'fill' is not defined                      no-undef
+  910:9    warning  'fill' is not defined                      no-undef
+  911:9    warning  'textSize' is not defined                  no-undef
+  912:9    warning  'text' is not defined                      no-undef
+  913:9    warning  'text' is not defined                      no-undef
+  914:9    warning  'text' is not defined                      no-undef
+  915:9    warning  'text' is not defined                      no-undef
+  916:9    warning  'text' is not defined                      no-undef
+  918:13   warning  'x7' is not defined                        no-undef
+  919:13   warning  'stroke' is not defined                    no-undef
+  920:13   warning  'x7' is not defined                        no-undef
+  920:18   warning  'x7' is not defined                        no-undef
+  921:13   warning  'y7' is not defined                        no-undef
+  921:18   warning  'y7' is not defined                        no-undef
+  922:13   warning  'line' is not defined                      no-undef
+  922:18   warning  'x7' is not defined                        no-undef
+  922:22   warning  'y7' is not defined                        no-undef
+  923:13   warning  'line' is not defined                      no-undef
+  923:18   warning  'x7' is not defined                        no-undef
+  923:22   warning  'y7' is not defined                        no-undef
+  924:13   warning  'line' is not defined                      no-undef
+  924:18   warning  'x7' is not defined                        no-undef
+  924:22   warning  'y7' is not defined                        no-undef
+  925:13   warning  'line' is not defined                      no-undef
+  925:18   warning  'x7' is not defined                        no-undef
+  925:22   warning  'y7' is not defined                        no-undef
+  926:13   warning  'line' is not defined                      no-undef
+  926:18   warning  'x7' is not defined                        no-undef
+  926:22   warning  'y7' is not defined                        no-undef
+  927:4    warning  'x7' is not defined                        no-undef
+  933:13   warning  'x7' is not defined                        no-undef
+  934:13   warning  'stroke' is not defined                    no-undef
+  935:13   warning  'fill' is not defined                      no-undef
+  936:13   warning  'textSize' is not defined                  no-undef
+  937:13   warning  'text' is not defined                      no-undef
+  938:13   warning  'text' is not defined                      no-undef
+  939:13   warning  'text' is not defined                      no-undef
+  940:13   warning  'text' is not defined                      no-undef
+  941:13   warning  'text' is not defined                      no-undef
+  942:13   warning  'stroke' is not defined                    no-undef
+  943:13   warning  'a7' is not defined                        no-undef
+  943:18   warning  'a7' is not defined                        no-undef
+  943:23   warning  'A' is not defined                         no-undef
+  944:13   warning  'b7' is not defined                        no-undef
+  944:18   warning  'b7' is not defined                        no-undef
+  944:23   warning  'B' is not defined                         no-undef
+  945:17   warning  'a7' is not defined                        no-undef
+  946:17   warning  'line' is not defined                      no-undef
+  946:22   warning  'a7' is not defined                        no-undef
+  946:26   warning  'b7' is not defined                        no-undef
+  947:17   warning  'line' is not defined                      no-undef
+  947:22   warning  'a7' is not defined                        no-undef
+  947:26   warning  'b7' is not defined                        no-undef
+  948:17   warning  'line' is not defined                      no-undef
+  948:22   warning  'a7' is not defined                        no-undef
+  948:26   warning  'b7' is not defined                        no-undef
+  949:17   warning  'line' is not defined                      no-undef
+  949:22   warning  'a7' is not defined                        no-undef
+  949:26   warning  'b7' is not defined                        no-undef
+  950:17   warning  'line' is not defined                      no-undef
+  950:22   warning  'a7' is not defined                        no-undef
+  950:26   warning  'b7' is not defined                        no-undef
+  954:13   warning  'a7' is not defined                        no-undef
+  955:13   warning  'arr' is not defined                       no-undef
+  956:13   warning  'cnt9' is not defined                      no-undef
+  957:13   warning  'Swal' is not defined                      no-undef
+  971:13   warning  'button' is not defined                    no-undef
+  978:2    warning  Unnecessary semicolon                      no-extra-semi
+
+✖ 2291 problems (0 errors, 2291 warnings)
+  0 errors and 34 warnings potentially fixable with the `--fix` option.
+
